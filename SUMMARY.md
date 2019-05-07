@@ -11,6 +11,7 @@
 
 * [Lei de Licitações e Contratos - Apresentação](lei-de-licitacoes-e-contratos-apresentacao.md)
 * [Leis de Licitações e Contratos - Capitulo I](leis-de-licitacoes-e-contratos-capitulo-i.md)
+* Lei de Licitações e Contratos - Capitulo I
 
 ## Lei de Inovação
 
