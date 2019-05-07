@@ -10,7 +10,6 @@
 ## Lei de Licitações
 
 * [Lei de Licitações e Contratos - Apresentação](lei-de-licitacoes-e-contratos-apresentacao.md)
-* Lei de Licitações e Contratos - Título I
 * [Leis de Licitações e Contratos - Capitulo I](leis-de-licitacoes-e-contratos-capitulo-i.md)
 
 ## Lei de Inovação
