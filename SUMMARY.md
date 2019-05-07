@@ -8,7 +8,7 @@
 ## Leis
 
 * [Lei da Inovação](lei-109732004-lei-ordinaria-02122004.md)
-* [Constítuição Federal - 1988](con-1988-constituicao-federal-de-1988-05101988.md)
+* [Constituição Federal - 1988](constituicao-federal-1988.md)
 * [Constituição Federal - 1988 - Título I](constituicao-federal-1988-titulo-i.md)
 * [Constituição Federal - 1988 - Título II](constituicao-federal-1988-titulo-ii.md)
 * [Constituição Federal - 1988 - Título III](constituicao-federal-1988-titulo-iii.md)
