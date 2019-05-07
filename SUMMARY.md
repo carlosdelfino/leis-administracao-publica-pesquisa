@@ -7,7 +7,13 @@
 
 ## Leis
 
+### Lei de Inovação
+
 * [Lei de Licitações e Contratos - Apresentação](lei-de-licitacoes-e-contratos-apresentacao.md)
+* [Lei de Licitações e Contratos - Título I](lei-de-licitacoes-e-contratos-titulo-i.md)
+
+### Lei de Inovação
+
 * [Lei da Inovação - Apresentação](lei-da-inovacao-apresentacao.md)
 
 ## Constituição Federal
