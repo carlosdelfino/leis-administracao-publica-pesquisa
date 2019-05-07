@@ -7,7 +7,7 @@
 
 ## Leis
 
-* [Lei de Licitações e Contratos](lei-de-licitacoes-e-contratos-apresentacao.md)
+* [Lei de Licitações e Contratos - Apresentação](lei-de-licitacoes-e-contratos-apresentacao.md)
 * [Lei da Inovação - Apresentação](lei-da-inovacao-apresentacao.md)
 
 ## Constituição Federal
