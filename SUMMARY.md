@@ -4,10 +4,10 @@
 
 * [Introdução](README.md)
 * [Leis tratadas neste livro](chapter1.md)
-* [Lei de Licitações e Contratos](lei-de-licitacoes-e-contratos.md)
 
 ## Leis
 
+* [Lei de Licitações e Contratos](lei-de-licitacoes-e-contratos-apresentacao.md)
 * [Lei da Inovação - Apresentação](lei-da-inovacao-apresentacao.md)
 
 ## Constituição Federal
