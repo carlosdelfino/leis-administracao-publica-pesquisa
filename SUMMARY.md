@@ -10,8 +10,11 @@
 ## Lei de Licitações
 
 * [Lei de Licitações e Contratos - Apresentação](lei-de-licitacoes-e-contratos-apresentacao.md)
-* [Leis de Licitações e Contratos - Capitulo I](leis-de-licitacoes-e-contratos-capitulo-i.md)
-* Lei de Licitações e Contratos - Capitulo I
+* [Lei de Licitações e Contratos - Capitulo I](lei-de-licitacoes-e-contratos-capitulo-i.md)
+* [Lei de Licitações e Contratos - Capitulo II - Seção I](lei-de-licitacoes-e-contratos-capitulo-ii-secao-i.md)
+* [Lei de Licitações e Contratos - Capitulo II - Seção II](lei-de-licitacoes-e-contratos-capitulo-ii-secao-ii.md)
+* [Lei de Licitações e Contratos - Capitulo II - Seção III e IV](lei-de-licitacoes-e-contratos-capitulo-ii-secao-iii-e-iv.md)
+* [Lei de Licitações e Contratos - Capitulo III - Seção I e II](lei-de-licitacoes-e-contratos-capitulo-iii-secao-i-e-ii.md)
 
 ## Lei de Inovação
 
