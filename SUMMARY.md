@@ -7,6 +7,8 @@
 
 ## Leis
 
+Lei de Licitação e Contratos da Aministração Pública
+
 * [Lei de Licitações e Contratos - Apresentação](lei-de-licitacoes-e-contratos-apresentacao.md)
 * [Lei de Licitações e Contratos - Capitulo I](lei-de-licitacoes-e-contratos-capitulo-i.md)
 * [Lei de Licitações e Contratos - Capitulo II - Seção I](lei-de-licitacoes-e-contratos-capitulo-ii-secao-i.md)
@@ -22,7 +24,7 @@
 * [Lei de Inovação](lei-de-inovacao.md)
 * [Lei da Inovação - Apresentação](lei-da-inovacao-apresentacao.md)
 
-## Constituição Federal
+### Constituição Federal
 
 * [Constituição Federal - 1988](constituicao-federal-1988.md)
 * [Constituição Federal - 1988 - Título I](constituicao-federal-1988-titulo-i.md)
