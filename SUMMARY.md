@@ -1,4 +1,4 @@
-# Conteúdo
+# Summary
 
 ## Introdução
 
@@ -7,7 +7,7 @@
 
 ## Leis
 
-### Lei de Licitação e Contratos da Aministração Pública
+## Lei de Licitação e Contratos da Aministração Pública
 
 * [Lei de Licitações e Contratos - Apresentação](lei-de-licitacoes-e-contratos-apresentacao.md)
 * [Lei de Licitações e Contratos - Capitulo I](lei-de-licitacoes-e-contratos-capitulo-i.md)
@@ -19,12 +19,12 @@
 * [Lei de Licitações e Contratos - Capitulo IV](lei-de-licitacoes-e-contratos-capitulo-iv.md)
 * [Lei de Licitações e Contratos - Capitulo V e VI](lei-de-licitacoes-e-contratos-capitulo-v-e-vi.md)
 
-### Lei de Inovação
+## Lei de Inovação
 
 * [Lei de Inovação](lei-de-inovacao.md)
 * [Lei da Inovação - Apresentação](lei-da-inovacao-apresentacao.md)
 
-### Constituição Federal
+## Constituição Federal
 
 * [Constituição Federal - 1988](constituicao-federal-1988.md)
 * [Constituição Federal - 1988 - Título I](constituicao-federal-1988-titulo-i.md)
@@ -41,6 +41,6 @@
 * [Constituição Federal - 1988 - Título VII](constituicao-federal-1988-titulo-vii.md)
 * [Constituição Federal - 1988 - Título VIII - Capitulo I e II](constituicao-federal-1988-titulo-viii-capitulo-i-e-ii.md)
 * [Constituição Federal - 1988 - Título VIII - Capitulo III](constituicao-federal-1988-titulo-viii-capitulo-iii.md)
-
-
+* [Constituição Federal - 1988 - Título VIII - Capítulo IV até VIII](constituicao-federal-1988-titulo-viii-capitulo-iv-ate-viii.md)
+* [Constituição Federal - 1988 - Título IX - Assinaturas](constituicao-federal-1988-titulo-ix-assinaturas.md)
 
