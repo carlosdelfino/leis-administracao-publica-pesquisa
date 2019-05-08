@@ -7,6 +7,7 @@
 
 ## Leis
 
+* 
 ## Lei de Licitações
 
 * [Lei de Licitações e Contratos - Apresentação](lei-de-licitacoes-e-contratos-apresentacao.md)
@@ -15,7 +16,10 @@
 * [Lei de Licitações e Contratos - Capitulo II - Seção II](lei-de-licitacoes-e-contratos-capitulo-ii-secao-ii.md)
 * [Lei de Licitações e Contratos - Capitulo II - Seção III e IV](lei-de-licitacoes-e-contratos-capitulo-ii-secao-iii-e-iv.md)
 * [Lei de Licitações e Contratos - Capitulo III - Seção I e II](lei-de-licitacoes-e-contratos-capitulo-iii-secao-i-e-ii.md)
-
+* [Lei de Licitações e Contratos - Capitulo III - Seção III ate IV](lei-de-licitacoes-e-contratos-capitulo-iii-secao-iii-ate-iv.md)
+* [Lei de Licitações e Contratos - Capitulo IV](lei-de-licitacoes-e-contratos-capitulo-iv.md)
+* [Lei de Licitações e Contratos - Capitulo V e VI](lei-de-licitacoes-e-contratos-capitulo-v-e-vi.md)
+* 
 ## Lei de Inovação
 
 * [Lei da Inovação - Apresentação](lei-da-inovacao-apresentacao.md)
@@ -31,4 +35,13 @@
 * [Constituição Federal - 1998 - Título IV - Capitulo III](constiuicao-federal-1998-titulo-iv-capitulo-iii.md)
 * [Constituição Federal - 1988 - Título IV - Capitulo IV](constituicao-federal-1988-titulo-iv-capitulo-iv.md)
 * [Constituição Federal - 1988 - Título V - Capítulo I](constituicao-federal-1988-titulo-v-capitulo-i.md)
+* [Constituição Federal - 1988 - Título V - Capítulo II e III](constituicao-federal-1988-titulo-v-capitulo-ii-e-iii.md)
+* [Constituição Federal - 1988 - Título VI - Capítulo I](constituicao-federal-1988-titulo-vi-capitulo-i.md)
+* [Constituição Federal - 1988 - Título VI - Capitulo II](constituicao-federal-1988-titulo-vi-capitulo-ii.md)
+* [Constituição Federal - 1988 - Título VII](constituicao-federal-1988-titulo-vii.md)
+* [Constituição Federal - 1988 - Título VIII - Capitulo I e II](constituicao-federal-1988-titulo-viii-capitulo-i-e-ii.md)
+* [Constituição Federal - 1988 - Título VIII - Capitulo III](constituicao-federal-1988-titulo-viii-capitulo-iii.md)
+  ## 
+
+
 
