@@ -29,7 +29,13 @@
 
 * [Lei de Inovação](lei-de-inovacao.md)
 * [Lei da Inovação - Apresentação](lei-da-inovacao-apresentacao.md)
-* [Lei de Inovação - Capitulo I](lei-de-inovacao-capitulo-i.md)
+* [Lei de Inovação - Capitulo I](/lei-de-inovacao-capitulo-i.md)
+* [Lei de Inovação - Capitulo II](/lei-de-inovacao-capitulo-ii.md)
+* [Lei de Inovação - Capitulo III](/lei-de-inovacao-capitulo-iii.md)
+* [Lei de Inovação - Capitulo IV](/lei-de-inovacao-capitulo-iv.md)
+* [Lei de Inovação - Capitulo V](/lei-de-inovacao-capitulo-v.md)
+* [Lei de Inovação - Capítulo VI, VII e Disposições Finais](/lei-de-inovacao-capitulo-vi-vii-e-disposicoes-finais.md)
+* lei-de-inovacao-capitulo-vi-vii-e-disposicoes-finais.md
 
 ## Constituição Federal
 
@@ -50,4 +56,6 @@
 * [Constituição Federal - 1988 - Título VIII - Capitulo III](constituicao-federal-1988-titulo-viii-capitulo-iii.md)
 * [Constituição Federal - 1988 - Título VIII - Capítulo IV até VIII](constituicao-federal-1988-titulo-viii-capitulo-iv-ate-viii.md)
 * [Constituição Federal - 1988 - Título IX - Assinaturas](constituicao-federal-1988-titulo-ix-assinaturas.md)
+
+
 
