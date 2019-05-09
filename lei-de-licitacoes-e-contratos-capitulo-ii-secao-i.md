@@ -98,13 +98,13 @@ V - leilão.
 
 Art. 23.  As modalidades de licitação a que se referem os incisos I a III do artigo anterior serão determinadas em função dos seguintes limites, tendo em vista o valor estimado da contratação:
 
-I - para obras e serviços de engenharia:
+~~I - para obras e serviços de engenharia:~~
 
-a\) convite - até Cr$ 100.000.000,00 \(cem milhões de cruzeiros\);
+~~a\) convite - até Cr$ 100.000.000,00 \(cem milhões de cruzeiros\);~~
 
-b\) tomada de preços - até Cr$ 1.000.000.000,00 \(hum bilhão de cruzeiros\);
+~~b\) tomada de preços - até Cr$ 1.000.000.000,00 \(hum bilhão de cruzeiros\);~~
 
-c\) concorrência - acima de Cr$ 1.000.000.000,00 \(hum bilhão de cruzeiros\);
+~~c\) concorrência - acima de Cr$ 1.000.000.000,00 \(hum bilhão de cruzeiros\);~~
 
 I - para obras e serviços de engenharia:  [\(Redação dada pela Lei nº 9.648, de 1998\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art23i)[\(Vide Decreto nº 9.412, de 2018\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2018/Decreto/D9412.htm#art1)[\(Vigência\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2018/Decreto/D9412.htm#art2)
 
