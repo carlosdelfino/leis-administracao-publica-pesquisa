@@ -114,13 +114,13 @@ b\) tomada de preços - até R$ 1.500.000,00 \(um milhão e quinhentos mil reais
 
 c\) concorrência: acima de R$ 1.500.000,00 \(um milhão e quinhentos mil reais\);[\(Redação dada pela Lei nº 9.648, de 1998\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art23i)[\(Vide Decreto nº 9.412, de 2018\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2018/Decreto/D9412.htm#art1)[\(Vigência\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2018/Decreto/D9412.htm#art2)
 
-II - para compras e serviços não referidos no inciso anterior:
+~~II - para compras e serviços não referidos no inciso anterior:~~
 
-a\) convite - até Cr$ 25.000.000,00 \(vinte e cinco milhões de cruzeiros\);
+~~a\) convite - até Cr$ 25.000.000,00 \(vinte e cinco milhões de cruzeiros\);~~
 
-b\) tomada de preços - até Cr$ 400.000.000,00 \(quatrocentos milhões de cruzeiros\);
+~~b\) tomada de preços - até Cr$ 400.000.000,00 \(quatrocentos milhões de cruzeiros\);~~
 
-c\) concorrência - acima de Cr$ 400.000.000,00 \(quatrocentos milhões de cruzeiros\).
+~~c\) concorrência - acima de Cr$ 400.000.000,00 \(quatrocentos milhões de cruzeiros\).~~
 
 II - para compras e serviços não referidos no inciso anterior:    [\(Redação dada pela Lei nº 9.648, de 1998\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art23ii)[\(Vide Decreto nº 9.412, de 2018\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2018/Decreto/D9412.htm#art1)[\(Vigência\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2018/Decreto/D9412.htm#art2)
 
