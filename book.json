@@ -83,9 +83,7 @@
      "website": "assets/styles/website.css", "ebook": "assets/styles/ebook.css", "pdf": "assets/styles/pdf.css", "mobi": "assets/styles/ebook.css", "epub": "assets/styles/ebook.css" },
       "links": {
        "sidebar": {
-           "Site": "http://carlosdelfino.eti.br",
-         "Facebook": "https://www.facebook.com/ProfessorCarlosDelfino/",
-         "Aulas Particulares": "mailto:consultoria@carlosdelfino.eti.br?subject='Gostaria de Informações sobre Aula Particular'&body='Meu nome é<br/>Gostaria de obter informações, gostaria de ter aulas em grupos ou individuais.'"
+           "Fontes Originais": "http://github.com/carlosdelfino/leis-administracao-publica-pesquisa"
        }
    }
 
