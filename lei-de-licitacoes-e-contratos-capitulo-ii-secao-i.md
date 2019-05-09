@@ -256,7 +256,8 @@ XXVI – na celebração de contrato de programa com ente da Federação ou com 
 
 XXVII - para o fornecimento de bens e serviços, produzidos ou prestados no País, que envolvam, cumulativamente, alta complexidade tecnológica e defesa nacional, mediante parecer de comissão especialmente designada pela autoridade máxima do órgão.                       [\(Incluído pela Lei nº 11.196, de 2005\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2004-2006/2005/Lei/L11196.htm#art118)
 
-###### Inc XXVII - [\(Redação dada pela Lei nº 11.445, de 2007\)](#) {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxvii-lei11445-2007}
+###### Inc XXVII - [\(Redação dada pela Lei nº 11.445, de 2007\)](#) {#lei-licitacoes-contratos-capitulo-ii-secao-i-art24-inc-xxvii-lei11445-2007}
+
 XXVII - na contratação da coleta, processamento e comercialização de resíduos sólidos urbanos recicláveis ou reutilizáveis, em áreas com sistema de coleta seletiva de lixo, efetuados por associações ou cooperativas formadas exclusivamente por pessoas físicas de baixa renda reconhecidas pelo poder público como catadores de materiais recicláveis, com o uso de equipamentos compatíveis com as normas técnicas, ambientais e de saúde pública.                    [\(Redação dada pela Lei nº 11.445, de 2007\).](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2007/Lei/L11445.htm#art57)[\(Vigência\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2007/Lei/L11445.htm#art59)
 
 XXVIII -                         [\(Vide Medida Provisória nº 352, de 2007\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2007/Mpv/352.htm#art60)
