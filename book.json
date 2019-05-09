@@ -80,11 +80,15 @@
        "Version": "0.1"
    },
    "styles": { 
-     "website": "assets/styles/website.css", "ebook": "assets/styles/ebook.css", "pdf": "assets/styles/pdf.css", "mobi": "assets/styles/ebook.css", "epub": "assets/styles/ebook.css" },
-      "links": {
+     "website": "assets/styles/website.css", 
+     "ebook": "assets/styles/ebook.css", 
+     "pdf": "assets/styles/pdf.css", 
+     "mobi": "assets/styles/ebook.css", 
+     "epub": "assets/styles/ebook.css" 
+    },
+    "links": {
        "sidebar": {
            "Fontes Originais": "http://github.com/carlosdelfino/leis-administracao-publica-pesquisa"
        }
-   }
-
+    }
 }

@@ -1,4 +1,9 @@
 {
+  "author": {
+    "email": "consultoria@carlosdelfino.eti.br",
+    "name": "Carlos Delfino",
+    "url": "http://carlosdelfino.eti.br"
+  },
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-gh-pages": "^0.5.4",
