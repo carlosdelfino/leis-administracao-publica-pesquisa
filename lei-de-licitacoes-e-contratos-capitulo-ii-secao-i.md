@@ -252,17 +252,25 @@ XXIV - para a celebração de contratos de prestação de serviços com as organ
 
 XXV - na contratação realizada por Instituição Científica e Tecnológica - ICT ou por agência de fomento para a transferência de tecnologia e para o licenciamento de direito de uso ou de exploração de criação protegida
 
-XXVI – na celebração de contrato de programa com ente da Federação ou com entidade de sua administração indireta, para a prestação de serviços públicos de forma associada nos termos do autorizado em contrato de consórcio público ou em convênio de cooperação.                       [\(Incluído pela Lei nº 11.107, de 2005\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2004-2006/2005/Lei/L11107.htm#art24xxvi)
+###### Inc XXVI - [\(Incluído pela Lei nº 11.107, de 2005\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2004-2006/2005/Lei/L11107.htm#art24xxvi)
 
-XXVII - para o fornecimento de bens e serviços, produzidos ou prestados no País, que envolvam, cumulativamente, alta complexidade tecnológica e defesa nacional, mediante parecer de comissão especialmente designada pela autoridade máxima do órgão.                       [\(Incluído pela Lei nº 11.196, de 2005\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2004-2006/2005/Lei/L11196.htm#art118)
+XXVI – na celebração de contrato de programa com ente da Federação ou com entidade de sua administração indireta, para a prestação de serviços públicos de forma associada nos termos do autorizado em contrato de consórcio público ou em convênio de cooperação.                    
 
-###### Inc XXVII - [\(Redação dada pela Lei nº 11.445, de 2007\)](#) {#lei-licitacoes-contratos-capitulo-ii-secao-i-art24-inc-xxvii-lei11445-2007}
+###### inc XXVII - [\(Incluído pela Lei nº 11.196, de 2005\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2004-2006/2005/Lei/L11196.htm#art118)
 
-XXVII - na contratação da coleta, processamento e comercialização de resíduos sólidos urbanos recicláveis ou reutilizáveis, em áreas com sistema de coleta seletiva de lixo, efetuados por associações ou cooperativas formadas exclusivamente por pessoas físicas de baixa renda reconhecidas pelo poder público como catadores de materiais recicláveis, com o uso de equipamentos compatíveis com as normas técnicas, ambientais e de saúde pública.                    [\(Redação dada pela Lei nº 11.445, de 2007\).](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2007/Lei/L11445.htm#art57)[\(Vigência\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2007/Lei/L11445.htm#art59)
+~~XXVII - para o fornecimento de bens e serviços, produzidos ou prestados no País, que envolvam, cumulativamente, alta complexidade tecnológica e defesa nacional, mediante parecer de comissão especialmente designada pela autoridade máxima do órgão.~~                       
 
-XXVIII -                         [\(Vide Medida Provisória nº 352, de 2007\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2007/Mpv/352.htm#art60)
+###### Inc XXVII - [\(Redação dada pela Lei nº 11.445, de 2007\) \(Vigência\)](#)  {#lei-licitacoes-contratos-capitulo-ii-secao-i-art24-inc-xxvii-lei11445-2007}
 
-XXVIII – para o fornecimento de bens e serviços, produzidos ou prestados no País, que envolvam, cumulativamente, alta complexidade tecnológica e defesa nacional, mediante parecer de comissão especialmente designada pela autoridade máxima do órgão.                      [\(Incluído pela Lei nº 11.484, de 2007\).](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2007/Lei/L11484.htm#art62)
+XXVII - na contratação da coleta, processamento e comercialização de resíduos sólidos urbanos recicláveis ou reutilizáveis, em áreas com sistema de coleta seletiva de lixo, efetuados por associações ou cooperativas formadas exclusivamente por pessoas físicas de baixa renda reconhecidas pelo poder público como catadores de materiais recicláveis, com o uso de equipamentos compatíveis com as normas técnicas, ambientais e de saúde pública.
+
+###### Inc XXVIII - [\(Vide Medida Provisória nº 352, de 2007\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2007/Mpv/352.htm#art60)
+
+~~XXVIII -~~                         
+
+###### Inc XXVIII - [\(Incluído pela Lei nº 11.484, de 2007\)](#)
+
+XXVIII – para o fornecimento de bens e serviços, produzidos ou prestados no País, que envolvam, cumulativamente, alta complexidade tecnológica e defesa nacional, mediante parecer de comissão especialmente designada pela autoridade máxima do órgão.                  
 
 XXIX – na aquisição de bens e contratação de serviços para atender aos contingentes militares das Forças Singulares brasileiras empregadas em operações de paz no exterior, necessariamente justificadas quanto ao preço e à escolha do fornecedor ou executante e ratificadas pelo Comandante da Força.                       [\(Incluído pela Lei nº 11.783, de 2008\).](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2008/Lei/L11783.htm#art1)
 
