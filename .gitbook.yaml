@@ -1,3 +1,4 @@
 redirects:
   ajuda: ajuda.md
-  ajuda/contato: contato.md
+  contat: ajuda.md
+  ajuda/contato: ajuda.md

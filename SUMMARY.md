@@ -3,6 +3,7 @@
 ## Introdução
 
 * [Introdução](README.md)
+* [ajuda](ajuda.md)
 
 ## Leis
 
