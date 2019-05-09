@@ -1,0 +1,103 @@
+{
+   "plugins": [
+       "richquotes",
+       "disqus",
+       "extend-default-theme",
+       "search",
+       "exercises",
+       "image-captions",
+       "gist",
+       "katex",
+       "indexes",
+       "customtheme",
+       "theme-api",
+       "theme-default",
+       "highlight",
+       "bulk-redirect",
+       "exercises",
+       "zingchart",
+       "quiz",
+       "quizzes",
+       "codepen",
+       "jsfiddle",
+       "gist",
+       "ace",
+       "chart",
+       "codesnippet",
+       "include-codeblock",
+       "ga",
+       "wabtheme",
+       "page-toc"
+   ],
+   "pluginsConfig": {
+       "disqus": {
+           "shortName": "aadministracaopublicaapesquisacientificaenossasociedade",
+           "useIdentifier": true
+       },
+       "page-toc": {
+           "selector": " .markdown-section h2, .markdown-section h3, .markdown-section h4",
+           "position": "top"
+       },
+       "layout": {
+           "headerPath": "layouts/header.html",
+           "footerPath": "layouts/footer.html"
+       },
+       "richquotes": {
+           "default": true
+       },
+       "bulk-redirect": {
+           "basepath": "/",
+           "redirectsFile": "redirects.json"
+       },
+       "ga": {
+           "token": "UA-21710445-1",
+           "configuration": "auto"
+       },
+       "sharing": {
+           "facebook": true,
+           "twitter": true,
+           "google": true,
+           "weibo": false,
+           "instapaper": true,
+           "vk": false,
+           "all": [
+               "facebook",
+               "google",
+               "twitter",
+               "weibo",
+               "instapaper",
+               "vk"
+           ]
+       },
+       "image-captions": {
+           "caption": "Imagem _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_",
+           "list_caption": "Lista de Imagens _BOOK_IMAGE_NUMBER_: _CAPTION_",
+           "variable_name": "picturesList",
+           "Images": {
+               "1.1.1": {
+                  "skip": "true"
+               }
+           }
+       }
+   },
+   "structure": {
+       "readme": "readme.md",
+       "glossary": "glossario.md",
+       "summary": "sumario.md"
+   },
+   "variables": {
+       "Version": "0.1"
+   },
+   "title": "A Administração Pública, a pesquisa Ciêntifica e Nossa Sociedade",
+   "language": "pt",
+   "styles": { 
+     "website": "assets/styles/website.css", "ebook": "assets/styles/ebook.css", "pdf": "assets/styles/pdf.css", "mobi": "assets/styles/ebook.css", "epub": "assets/styles/ebook.css" },
+      "links": {
+       "sidebar": {
+           "Site": "http://carlosdelfino.eti.br",
+         "Facebook": "https://www.facebook.com/CursoArduinoMinas/",
+         "Aulas Particulares": "mailto:consultoria@carlosdelfino.eti.br?subject='Gostaria de Informações sobre Aula Particular'&body='Meu nome é<br/>Gostaria de obter informações, gostaria de ter aulas em grupos ou individuais.'"
+       }
+   }
+
+}
