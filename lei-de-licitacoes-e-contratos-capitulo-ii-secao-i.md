@@ -230,15 +230,23 @@ XX - na contratação de associação de portadores de deficiência física, sem
 
 XXI - para a aquisição ou contratação de produto para pesquisa e desenvolvimento, limitada, no caso de obras e serviços de engenharia, a 20% \(vinte por cento\) do valor de que trata a alínea “b”do inciso I docaputdo art. 23;
 
-XXII - na contratação do fornecimento ou suprimento de energia elétrica com concessionário, permissionário ou autorizado, segundo as normas da legislação específica;                       [\(Incluído pela Lei nº 9.648, de 1998\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxii)
+###### Inc XXII - [\(Incluído pela Lei nº 9.648, de 1998\)](#)
 
-XXII - na contratação de fornecimento ou suprimento de energia elétrica e gás natural com concessionário, permissionário ou autorizado, segundo as normas da legislação específica;                       [\(Incluído pela Lei nº 9.648, de 1998\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxii.)
+~~XXII - na contratação do fornecimento ou suprimento de energia elétrica com concessionário, permissionário ou autorizado, segundo as normas da legislação específica;~~                       
+
+###### Inc XXII - \([redação alterada pela Lei nº 10438 de 1998](http://www.planalto.gov.br/CCIVIL_03/LEIS/2002/L10438.htm#art18)\)
+
+~~XXII - na contratação de fornecimento ou suprimento de energia elétrica e gás natural com concessionário, permissionário ou autorizado, segundo as normas da legislação específica;~~                       
 
 XXIII - na contratação realizada por empresa pública ou sociedade de economia mista com suas subsidiárias e controladas, para a aquisição ou alienação de bens, prestação ou obtenção de serviços, desde que o preço contratado seja compatível com o praticado no mercado.                      [\(Incluído pela Lei nº 9.648, de 1998\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxiii)
 
 XXIV - para a celebração de contratos de prestação de serviços com as organizações sociais, qualificadas no âmbito das respectivas esferas de governo, para atividades contempladas no contrato de gestão.[\(Incluído pela Lei nº 9.648, de 1998\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxiv)
 
-XXV - na contratação realizada por Instituição Científica e Tecnológica - ICT ou por agência de fomento para a transferência de tecnologia e para o licenciamento de direito de uso ou de exploração de criação protegida.                   [\(Incluído pela Lei nº 10.973, de 2004\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2004-2006/2004/Lei/L10.973.htm#art25)
+###### Inc XXV - [\(Incluído pela Lei nº 10.973, de 2004\)](#) {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxv-lei10973-2004}
+
+XXV - na contratação realizada por Instituição Científica e Tecnológica - ICT ou por agência de fomento para a transferência de tecnologia e para o licenciamento de direito de uso ou de exploração de criação protegida
+
+
 
 XXVI – na celebração de contrato de programa com ente da Federação ou com entidade de sua administração indireta, para a prestação de serviços públicos de forma associada nos termos do autorizado em contrato de consórcio público ou em convênio de cooperação.                       [\(Incluído pela Lei nº 11.107, de 2005\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2004-2006/2005/Lei/L11107.htm#art24xxvi)
 
