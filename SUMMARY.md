@@ -2,7 +2,7 @@
 
 ## Introdução
 
-* [Sumario/Indice](#summary)
+* [Sumario/Indice](summary.md)
 * [Introdução](README.md)
 * [Ajuda](ajuda.md)
 
