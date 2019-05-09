@@ -7,6 +7,12 @@
 
 ## Leis
 
+* [Leis - Apresentação](leis/leis-apresentacao.md)
+
+## Lei de Improbidade Administrativa
+
+* [Lei de Improbidade Administrativa - Apresentação](lei-de-improbidade-administrativa/lei-de-improbidade-administrativa-apresentacao.md)
+
 ## Lei de Licitação e Contratos da Aministração Pública
 
 * [Lei de Licitações e Contratos - Apresentação](lei-de-licitacoes-e-contratos-apresentacao.md)
@@ -23,6 +29,7 @@
 
 * [Lei de Inovação](lei-de-inovacao.md)
 * [Lei da Inovação - Apresentação](lei-da-inovacao-apresentacao.md)
+* [Lei de Inovação - Capitulo I](lei-de-inovacao-capitulo-i.md)
 
 ## Constituição Federal
 
