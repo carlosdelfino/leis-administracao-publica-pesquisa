@@ -1,4 +1,4 @@
-# A Administração Pública, A Pesquisa Ciêntifica e Nossa Sociedade
+# ![](assets/images/repository-open-graph-template.png)A Administração Pública, A Pesquisa Ciêntifica e Nossa Sociedade
 
 O objetivo deste livro é registrar minhas anotações e estudos sobre a administração pública com foco na implantação e desenvolvimento de um centro de pesquisa que vise o intersse da população carente e minorias em nossa soecidade quando discriminadas no sistemas de ensino convencionais.
 
