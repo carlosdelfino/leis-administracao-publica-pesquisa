@@ -220,7 +220,7 @@ XIX - para as compras de material de uso pelas Forças Armadas, com exceção de
 
 XX - na contratação de associação de portadores de deficiência física, sem fins lucrativos e de comprovada idoneidade, por órgãos ou entidades da Admininistração Pública, para a prestação de serviços ou fornecimento de mão-de-obra, desde que o preço contratado seja compatível com o praticado no mercado.                       [\(Incluído pela Lei nº 8.883, de 1994\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L8883.htm#art1)
 
-###### Inc XXI -[ Incluído pela Lei N° 9.648, de 1998](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxi) {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei9648-1998}
+###### Inc XXI - [Incluído pela Lei N° 9.648, de 1998](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxi) {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei9648-1998}
 
 ~~XXI - Para a aquisição de bens destinados exclusivamente a pesquisa científica e tecnológica com recursos concedidos pela CAPES, FINEP, CNPq ou outras instituições de fomento a pesquisa credenciadas pelo CNPq para esse fim específico.~~
 
@@ -232,7 +232,7 @@ XX - na contratação de associação de portadores de deficiência física, sem
 
 XXI - para a aquisição ou contratação de produto para pesquisa e desenvolvimento, limitada, no caso de obras e serviços de engenharia, a 20% \(vinte por cento\) do valor de que trata a alínea “b”do inciso I do **caput** do art. 23;
 
-###### Inc XXII - [\(Incluído pela Lei nº 9.648, de 1998\)](#)
+###### Inc XXII - [Incluído pela Lei N° 9.648, de 1998](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxi)
 
 ~~XXII - na contratação do fornecimento ou suprimento de energia elétrica com concessionário, permissionário ou autorizado, segundo as normas da legislação específica;~~
 
@@ -240,11 +240,11 @@ XXI - para a aquisição ou contratação de produto para pesquisa e desenvolvim
 
 ~~XXII - na contratação de fornecimento ou suprimento de energia elétrica e gás natural com concessionário, permissionário ou autorizado, segundo as normas da legislação específica;~~
 
-###### Inc XXIII  - [\(Incluído pela Lei nº 9.648, de 1998\)](#)
+###### Inc XXIII  - [Incluído pela Lei N° 9.648, de 1998](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxi)
 
 XXIII - na contratação realizada por empresa pública ou sociedade de economia mista com suas subsidiárias e controladas, para a aquisição ou alienação de bens, prestação ou obtenção de serviços, desde que o preço contratado seja compatível com o praticado no mercado.
 
-###### Inc XXIV - [\(Incluído pela Lei nº 9.648, de 1998\)](#)
+###### Inc XXIV - [Incluído pela Lei N° 9.648, de 1998](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxi)
 
 XXIV - para a celebração de contratos de prestação de serviços com as organizações sociais, qualificadas no âmbito das respectivas esferas de governo, para atividades contempladas no contrato de gestão.
 
@@ -256,6 +256,7 @@ XXVI – na celebração de contrato de programa com ente da Federação ou com 
 
 XXVII - para o fornecimento de bens e serviços, produzidos ou prestados no País, que envolvam, cumulativamente, alta complexidade tecnológica e defesa nacional, mediante parecer de comissão especialmente designada pela autoridade máxima do órgão.                       [\(Incluído pela Lei nº 11.196, de 2005\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2004-2006/2005/Lei/L11196.htm#art118)
 
+###### Inc XXVII - [\(Redação dada pela Lei nº 11.445, de 2007\)](#) {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxvii-lei11445-2007}
 XXVII - na contratação da coleta, processamento e comercialização de resíduos sólidos urbanos recicláveis ou reutilizáveis, em áreas com sistema de coleta seletiva de lixo, efetuados por associações ou cooperativas formadas exclusivamente por pessoas físicas de baixa renda reconhecidas pelo poder público como catadores de materiais recicláveis, com o uso de equipamentos compatíveis com as normas técnicas, ambientais e de saúde pública.                    [\(Redação dada pela Lei nº 11.445, de 2007\).](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2007/Lei/L11445.htm#art57)[\(Vigência\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2007/Lei/L11445.htm#art59)
 
 XXVIII -                         [\(Vide Medida Provisória nº 352, de 2007\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2007/Mpv/352.htm#art60)
