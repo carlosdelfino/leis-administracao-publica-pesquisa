@@ -9,6 +9,7 @@
 ## Pesquisas Academicas
 
 * [Pesquisas Acadêmicas - Apresentação](pesquisas-academicas/readme.md)
+* [Pesquisas com Reciclagem](pesquisas-academicas/pesquisas-com-reciclagem.md)
 
 ## Leis
 
