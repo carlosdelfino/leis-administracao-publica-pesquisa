@@ -39,8 +39,8 @@
            "position": "top"
        },
        "layout": {
-           "headerPath": "layouts/header.html",
-           "footerPath": "layouts/footer.html"
+           "headerPath": "assets/layouts/header.html",
+           "footerPath": "assets/layouts/footer.html"
        },
        "richquotes": {
            "default": true
@@ -83,19 +83,19 @@
    "structure": {
        "readme": "readme.md",
        "glossary": "glossario.md",
-       "summary": "sumario.md"
+       "summary": "SUMMARY.md"
    },
    "variables": {
        "Version": "0.1"
    },
-   "title": "A Administração Pública, a pesquisa Ciêntifica e Nossa Sociedade",
+   "title": "A Administração Pública, a Pesquisa Ciêntifica e Nossa Sociedade",
    "language": "pt",
    "styles": { 
      "website": "assets/styles/website.css", "ebook": "assets/styles/ebook.css", "pdf": "assets/styles/pdf.css", "mobi": "assets/styles/ebook.css", "epub": "assets/styles/ebook.css" },
       "links": {
        "sidebar": {
            "Site": "http://carlosdelfino.eti.br",
-         "Facebook": "https://www.facebook.com/CursoArduinoMinas/",
+         "Facebook": "https://www.facebook.com/ProfessorCarlosDelfino/",
          "Aulas Particulares": "mailto:consultoria@carlosdelfino.eti.br?subject='Gostaria de Informações sobre Aula Particular'&body='Meu nome é<br/>Gostaria de obter informações, gostaria de ter aulas em grupos ou individuais.'"
        }
    }
