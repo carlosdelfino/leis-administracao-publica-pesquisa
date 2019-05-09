@@ -35,7 +35,6 @@
 * [Lei de Inovação - Capitulo IV](/lei-de-inovacao-capitulo-iv.md)
 * [Lei de Inovação - Capitulo V](/lei-de-inovacao-capitulo-v.md)
 * [Lei de Inovação - Capítulo VI, VII e Disposições Finais](/lei-de-inovacao-capitulo-vi-vii-e-disposicoes-finais.md)
-* lei-de-inovacao-capitulo-vi-vii-e-disposicoes-finais.md
 
 ## Constituição Federal
 
