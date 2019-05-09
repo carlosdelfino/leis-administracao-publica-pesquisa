@@ -6,7 +6,7 @@
   },
   "description": "A Administração Pública, a Pesquisa Ciêntifica e Nossa Sociedade!",
   "name": "a_administracao_publica_a_pesquisa_cientifica_e_nossa_sociedade",
-  "homepage": "",
+  "homepage": "http://carlosdelfino.eti.br/leis-administracao-publica-pesquisa/",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-gh-pages": "^0.5.4",
