@@ -8,7 +8,7 @@
 
 ## Pesquisas Academicas
 
-* [README](pesquisas-academicas/readme.md)
+* [Pesquisas Acadêmicas - Apresentação](pesquisas-academicas/readme.md)
 
 ## Leis
 

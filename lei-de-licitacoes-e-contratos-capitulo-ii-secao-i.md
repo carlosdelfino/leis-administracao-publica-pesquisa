@@ -218,17 +218,17 @@ XIX - para as compras de material de uso pelas Forças Armadas, com exceção de
 
 XX - na contratação de associação de portadores de deficiência física, sem fins lucrativos e de comprovada idoneidade, por órgãos ou entidades da Admininistração Pública, para a prestação de serviços ou fornecimento de mão-de-obra, desde que o preço contratado seja compatível com o praticado no mercado.                       [\(Incluído pela Lei nº 8.883, de 1994\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L8883.htm#art1)
 
-######  {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei9648-1998}
+###### Inc XXI -[ Incluído pela Lei N° 9.648, de 1998](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2010/Lei/L12349.htm#art1) {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei9648-1998}
 
-~~XXI - Para a aquisição de bens destinados exclusivamente a pesquisa científica e tecnológica com recursos concedidos pela CAPES, FINEP, CNPq ou outras instituições de fomento a pesquisa credenciadas pelo CNPq para esse fim específico.~~[~~\(Incluído pela Lei nº 9.648, de 1998\)~~](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxi)
+~~XXI - Para a aquisição de bens destinados exclusivamente a pesquisa científica e tecnológica com recursos concedidos pela CAPES, FINEP, CNPq ou outras instituições de fomento a pesquisa credenciadas pelo CNPq para esse fim específico.~~
 
-######  {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei12349-2010}
+###### Inc XXI - [Redação dada pela Lei nº 12.349, de 2010](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2010/Lei/L12349.htm#art1)\) {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei12349-2010}
 
-~~XXI - para a aquisição de bens e insumos destinados exclusivamente à pesquisa científica e tecnológica com recursos concedidos pela Capes, pela Finep, pelo CNPq ou por outras instituições de fomento a pesquisa credenciadas pelo CNPq para esse fim específico;                         ~~[~~\(Redação dada pela Lei nº 12.349, de 2010\)~~](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2010/Lei/L12349.htm#art1)
+~~XXI - para a aquisição de bens e insumos destinados exclusivamente à pesquisa científica e tecnológica com recursos concedidos pela Capes, pela Finep, pelo CNPq ou por outras instituições de fomento a pesquisa credenciadas pelo CNPq para esse fim específico;                         ~~
 
-######  {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei13243-2016}
+###### Inc XXI - [Incluído pela Lei nº 13.243, de 2016](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2016/Lei/L13243.htm#art4) {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei13243-2016}
 
-XXI - para a aquisição ou contratação de produto para pesquisa e desenvolvimento, limitada, no caso de obras e serviços de engenharia, a 20% \(vinte por cento\) do valor de que trata a alínea “b”do inciso I docaputdo art. 23;                       [\(Incluído pela Lei nº 13.243, de 2016\)](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2016/Lei/L13243.htm#art4)
+XXI - para a aquisição ou contratação de produto para pesquisa e desenvolvimento, limitada, no caso de obras e serviços de engenharia, a 20% \(vinte por cento\) do valor de que trata a alínea “b”do inciso I docaputdo art. 23;                       
 
 XXII - na contratação do fornecimento ou suprimento de energia elétrica com concessionário, permissionário ou autorizado, segundo as normas da legislação específica;                       [\(Incluído pela Lei nº 9.648, de 1998\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxii)
 
