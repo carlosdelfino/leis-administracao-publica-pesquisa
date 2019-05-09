@@ -11,6 +11,7 @@
 ## Lei de Improbidade Administrativa
 
 * [Lei de Improbidade Administrativa - Apresentação](lei-de-improbidade-administrativa/lei-de-improbidade-administrativa-apresentacao.md)
+* [Lei de IMprobidade Administrativa - Capítulo I e II](lei-de-improbidade-administrativa/lei-de-improbidade-administrativa-capitulo-i-e-ii.md)
 
 ## Lei de Licitação e Contratos da Aministração Pública
 
