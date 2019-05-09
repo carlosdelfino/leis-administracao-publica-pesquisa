@@ -218,7 +218,7 @@ XIX - para as compras de material de uso pelas Forças Armadas, com exceção de
 
 XX - na contratação de associação de portadores de deficiência física, sem fins lucrativos e de comprovada idoneidade, por órgãos ou entidades da Admininistração Pública, para a prestação de serviços ou fornecimento de mão-de-obra, desde que o preço contratado seja compatível com o praticado no mercado.                       [\(Incluído pela Lei nº 8.883, de 1994\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L8883.htm#art1)
 
-###### Inc XXI -[ Incluído pela Lei N° 9.648, de 1998](http://www.planalto.gov.br/CCIVIL_03/_Ato2007-2010/2010/Lei/L12349.htm#art1) {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei9648-1998}
+###### Inc XXI -[ Incluído pela Lei N° 9.648, de 1998](http://www.planalto.gov.br/CCIVIL_03/LEIS/L9648cons.htm#art24xxi) {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei9648-1998}
 
 ~~XXI - Para a aquisição de bens destinados exclusivamente a pesquisa científica e tecnológica com recursos concedidos pela CAPES, FINEP, CNPq ou outras instituições de fomento a pesquisa credenciadas pelo CNPq para esse fim específico.~~
 
