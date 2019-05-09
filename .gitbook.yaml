@@ -1,4 +1,10 @@
-redirects:
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+  redirects:
   ajuda: ajuda.md
   contat: ajuda.md
   ajuda/contato: ajuda.md
