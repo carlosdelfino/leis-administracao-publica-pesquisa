@@ -6,3 +6,5 @@ Não viso aqui justificar nenhum tipo de grupo social, apenas registrar anotaç�
 
 Na seção [Leis](/leis/leis-apresentacao.md) listo as leis, seja ordinárias, decretos ou emendas a constituição.
 
+Veja na página "[Ajuda](/ajuda.md)" como deve proceder para solicitar ajuda, sugerir melhorias ou oferecer colaboração.
+
