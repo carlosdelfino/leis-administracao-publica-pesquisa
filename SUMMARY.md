@@ -2,9 +2,9 @@
 
 ## Introdução
 
-* [Sumário](SUMMARY.md)
 * [Introdução](README.md)
 * [Ajuda](ajuda.md)
+* [Sumário](SUMMARY.md)
 * [Glossário](glossario.md)
 
 ## Pesquisas Acadêmicas
@@ -63,6 +63,4 @@
 * [Título VIII - Capitulo III](constituicao-federal-1988-titulo-viii-capitulo-iii.md)
 * [Título VIII - Capítulo IV até VIII](constituicao-federal-1988-titulo-viii-capitulo-iv-ate-viii.md)
 * [Título IX - Assinaturas](constituicao-federal-1988-titulo-ix-assinaturas.md)
-
-
 
