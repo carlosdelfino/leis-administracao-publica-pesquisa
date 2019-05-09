@@ -9,10 +9,6 @@
 
 * [Leis - Apresentação](leis/leis-apresentacao.md)
 
-## Teste
-
-* [teste](teste/teste.md)
-
 ## Lei de Improbidade Administrativa
 
 * [Lei de Improbidade Administrativa - Apresentação](lei-de-improbidade-administrativa/lei-de-improbidade-administrativa-apresentacao.md)
