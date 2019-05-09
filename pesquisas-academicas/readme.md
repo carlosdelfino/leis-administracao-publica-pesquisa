@@ -1,2 +1,4 @@
-Conforme [/lei-de-licitacoes-e-contratos-capitulo-ii-secao-i.md\#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei13243-2016](/lei-de-licitacoes-e-contratos-capitulo-ii-secao-i.md#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei13243-2016)
+Conforme [A lei de licitações e contrados, 8666/93, no Capítulo II, Seção I, artigo 24, inciso XXI](/lei-de-licitacoes-e-contratos-capitulo-ii-secao-i.md#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei13243-2016) a licitação pode ser dispensada, quando se trata de aquisição ou contratação de produtos para pesquisa e desenvolvimento, porém é limitado nos casos de obras e serviços de engenharia até o valor de 20% \(Vinte por cento\) do valor que trata na [alinea "b" do inciso I do caputo do art 23](//lei-de-licitacoes-e-contratos-capitulo-ii-secao-i.md#lei-licitacoes-contratos-capitulo-ii-secao-1-art23);
+
+para a aquisição ou contratação de produto para pesquisa e desenvolvimento, limitada, no caso de obras e serviços de engenharia, a 20% \(vinte por cento\) do valor de que trata a alínea “b”do inciso I docaputdo art. 23;
 

@@ -8,7 +8,7 @@ Art. 20.  As licitações serão efetuadas no local onde se situar a repartiçã
 
 Parágrafo único.  O disposto neste artigo não impedirá a habilitação de interessados residentes ou sediados em outros locais.
 
-Art. 21. Os avisos contendo os resumos dos editais das concorrências e tomadas de preços, embora realizadas no local da repartição interessada, deverão ser publicados com antecedência, durante 3 \(três\) dias consecutivos, obrigatória e contemporaneamente:
+~~Art. 21. Os avisos contendo os resumos dos editais das concorrências e tomadas de preços, embora realizadas no local da repartição interessada, deverão ser publicados com antecedência, durante 3 \(três\) dias consecutivos, obrigatória e contemporaneamente:~~
 
 Art. 21.  Os avisos contendo os resumos dos editais das concorrências, das tomadas de preços, dos concursos e dos leilões, embora realizados no local da repartição interessada, deverão ser publicados com antecedência, no mínimo, por uma vez:                       [\(Redação dada pela Lei nº 8.883, de 1994\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L8883.htm#art1)
 
@@ -93,6 +93,8 @@ V - leilão.
 § 8o  É vedada a criação de outras modalidades de licitação ou a combinação das referidas neste artigo.
 
 § 9o  Na hipótese do parágrafo 2odeste artigo, a administração somente poderá exigir do licitante não cadastrado os documentos previstos nos arts. 27 a 31, que comprovem  habilitação compatível com o objeto da licitação, nos termos do edital.              [\(Incluído pela Lei nº 8.883, de 1994\)](http://www.planalto.gov.br/CCIVIL_03/LEIS/L8883.htm#art1)
+
+###### Art. 23 {#lei-licitacoes-contratos-capitulo-ii-secao-1-art23}
 
 Art. 23.  As modalidades de licitação a que se referem os incisos I a III do artigo anterior serão determinadas em função dos seguintes limites, tendo em vista o valor estimado da contratação:
 
@@ -228,7 +230,7 @@ XX - na contratação de associação de portadores de deficiência física, sem
 
 ###### Inc XXI - [Incluído pela Lei nº 13.243, de 2016](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2016/Lei/L13243.htm#art4) {#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxi-lei13243-2016}
 
-XXI - para a aquisição ou contratação de produto para pesquisa e desenvolvimento, limitada, no caso de obras e serviços de engenharia, a 20% \(vinte por cento\) do valor de que trata a alínea “b”do inciso I docaputdo art. 23;
+XXI - para a aquisição ou contratação de produto para pesquisa e desenvolvimento, limitada, no caso de obras e serviços de engenharia, a 20% \(vinte por cento\) do valor de que trata a alínea “b”do inciso I do **caput** do art. 23;
 
 ###### Inc XXII - [\(Incluído pela Lei nº 9.648, de 1998\)](#)
 
@@ -240,7 +242,7 @@ XXI - para a aquisição ou contratação de produto para pesquisa e desenvolvim
 
 ###### Inc XXIII  - [\(Incluído pela Lei nº 9.648, de 1998\)](#)
 
-XXIII - na contratação realizada por empresa pública ou sociedade de economia mista com suas subsidiárias e controladas, para a aquisição ou alienação de bens, prestação ou obtenção de serviços, desde que o preço contratado seja compatível com o praticado no mercado.              
+XXIII - na contratação realizada por empresa pública ou sociedade de economia mista com suas subsidiárias e controladas, para a aquisição ou alienação de bens, prestação ou obtenção de serviços, desde que o preço contratado seja compatível com o praticado no mercado.
 
 ###### Inc XXIV - [\(Incluído pela Lei nº 9.648, de 1998\)](#)
 
