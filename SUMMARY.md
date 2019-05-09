@@ -27,7 +27,6 @@
 
 ## Lei de Inovação
 
-* [Lei de Inovação](lei-de-inovacao.md)
 * [Lei da Inovação - Apresentação](lei-da-inovacao-apresentacao.md)
 * [Lei de Inovação - Capitulo I](/lei-de-inovacao-capitulo-i.md)
 * [Lei de Inovação - Capitulo II](/lei-de-inovacao-capitulo-ii.md)
