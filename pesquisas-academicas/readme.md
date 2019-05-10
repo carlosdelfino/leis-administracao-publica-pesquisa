@@ -10,5 +10,7 @@ Quando se trata de pesquisas acadêmicas conforme [A lei de licitações e contr
 >
 > c\) na modalidade concorrência - acima de R$ 3.300.000,00 \(três milhões e trezentos mil reais\); e
 
-[Já no inciso XXV da lei de licitações e contrados, 8666/93, no Capítulo II, Seção I, artigo 24,](/lei-de-licitacoes-e-contratos-capitulo-ii-secao-i.md#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxv) a licitação pode também ser dispensada caso a _contração seja por Instituição Científica e Tecnológica - ICT ou por agência de fomento para a transferência de tecnologia e para o licenciamento de direito de uso ou de exploração de criação protegida._
+[Já no inciso XXV da lei de licitações e contrados, 8.666/93, no Capítulo II, Seção I, artigo 24,](/lei-de-licitacoes-e-contratos-capitulo-ii-secao-i.md#lei-licitacoes-contratos-capitulo-ii-secao-1-art24-inc-xxv) a licitação pode também ser dispensada caso a _contração seja por Instituição Científica e Tecnológica - ICT ou por agência de fomento para a transferência de tecnologia e para o licenciamento de direito de uso ou de exploração de criação protegida._
+
+E quando se tratar do _fornecimento de produtos e serviços de alta complexidade, produzidos ou prestados no país, que envolvam,  cumulativamente, alta complexidade tecnológica, defesa nacional, mediante parecer de comissão especiaumente designada pela autoridade máxima do orgão, a dispensa também é permitida, _definido assim no Inciso XXVIII do artigo 24, da seção I, do capítulo II da lei de Licitações e Contratos, 8.666/93, _. _
 
