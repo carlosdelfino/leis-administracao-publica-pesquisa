@@ -20,7 +20,7 @@
    ],
    "pluginsConfig": {
        "disqus": {
-           "shortName": "aadministracaopublicaapesquisacientificaenossasociedade",
+           "shortName": "administracaopublicapesquisacientificaesociedade",
            "useIdentifier": true
        },
        "page-toc": {
