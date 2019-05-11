@@ -2,7 +2,7 @@
 
 [\(Redação dada pela Emenda Constitucional nº 80, de 2014\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc80.htm#art1)
 
-#### CAPÍTULO I - DO PODER LEGISLATIVO
+#### CAPÍTULO I - **DO PODER LEGISLATIVO**
 
 ##### SEÇÃO I** - **DO CONGRESSO NACIONAL**
 
