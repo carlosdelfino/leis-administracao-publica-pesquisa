@@ -1,12 +1,7 @@
 
+## TÍTULO II - **DOS DIREITOS E GARANTIAS FUNDAMENTAIS**
 
-**TÍTULO II**
-
-**DOS DIREITOS E GARANTIAS FUNDAMENTAIS**
-
-CAPÍTULO I
-
-DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS
+### CAPÍTULO I - **DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS**
 
 Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
 
@@ -222,9 +217,7 @@ LXXVIII - a todos, no âmbito judicial e administrativo, são assegurados a razo
 
 § 4º O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão.  [\(Incluído pela Emenda Constitucional nº 45, de 2004\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc45.htm#art1)
 
-CAPÍTULO II
-
-DOS DIREITOS SOCIAIS
+### CAPÍTULO II - **DOS DIREITOS SOCIAIS**
 
 Art. 6º São direitos sociais a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
 
@@ -353,9 +346,7 @@ Art. 10. É assegurada a participação dos trabalhadores e empregadores nos col
 
 Art. 11. Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores.
 
-CAPÍTULO III
-
-DA NACIONALIDADE
+### CAPÍTULO III - **DA NACIONALIDADE**
 
 Art. 12. São brasileiros:
 
@@ -419,9 +410,7 @@ Art. 13. A língua portuguesa é o idioma oficial da República Federativa do Br
 
 § 2º Os Estados, o Distrito Federal e os Municípios poderão ter símbolos próprios.
 
-CAPÍTULO IV
-
-DOS DIREITOS POLÍTICOS
+### CAPÍTULO IV - **DOS DIREITOS POLÍTICOS**
 
 Art. 14. A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:
 
@@ -507,9 +496,7 @@ Art. 16 A lei que alterar o processo eleitoral só entrará em vigor um ano apó
 
 Art. 16. A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência.   [\(Redação dada pela Emenda Constitucional nº 4, de 1993\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc04.htm)
 
-CAPÍTULO V
-
-DOS PARTIDOS POLÍTICOS
+### CAPÍTULO V - **DOS PARTIDOS POLÍTICOS**
 
 Art. 17. É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos:  [Regulamento](https://www.planalto.gov.br/ccivil_03/LEIS/L9096.htm)
 
@@ -540,4 +527,3 @@ II - tiverem elegido pelo menos quinze Deputados Federais distribuídos em pelo 
 § 4º É vedada a utilização pelos partidos políticos de organização paramilitar.
 
 § 5º Ao eleito por partido que não preencher os requisitos previstos no § 3º deste artigo é assegurado o mandato e facultada a filiação, sem perda do mandato, a outro partido que os tenha atingido, não sendo essa filiação considerada para fins de distribuição dos recursos do fundo partidário e de acesso gratuito ao tempo de rádio e de televisão.  [\(Incluído pela Emenda Constitucional nº 97, de 2017\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc97.htm#art1)
-

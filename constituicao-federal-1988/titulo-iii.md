@@ -1,12 +1,6 @@
+## TÍTULO III -**DA ORGANIZAÇÃO DO ESTADO**
 
-
-TÍTULO III
-
-**DA ORGANIZAÇÃO DO ESTADO**
-
-CAPÍTULO I
-
-DA ORGANIZAÇÃO POLÍTICO-ADMINISTRATIVA
+### CAPÍTULO I - DA ORGANIZAÇÃO POLÍTICO-ADMINISTRATIVA
 
 Art. 18. A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos desta Constituição.
 
@@ -28,9 +22,7 @@ II - recusar fé aos documentos públicos;
 
 III - criar distinções entre brasileiros ou preferências entre si.
 
-CAPÍTULO II
-
-DA UNIÃO
+### CAPÍTULO II - DA UNIÃO
 
 Art. 20. São bens da União:
 
@@ -290,9 +282,7 @@ XVI - organização, garantias, direitos e deveres das polícias civis.
 
 § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário.
 
-CAPÍTULO III
-
-DOS ESTADOS FEDERADOS
+### CAPÍTULO III - DOS ESTADOS FEDERADOS
 
 Art. 25. Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição.
 
@@ -338,9 +328,7 @@ Parágrafo único. Perderá o mandato o Governador que assumir outro cargo ou fu
 
 § 2º Os subsídios do Governador, do Vice-Governador e dos Secretários de Estado serão fixados por lei de iniciativa da Assembléia Legislativa, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I.   [\(Incluído pela Emenda Constitucional nº 19, de 1998\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc19.htm#art2)
 
-CAPÍTULO IV
-
-Dos Municípios
+### CAPÍTULO IV - Dos Municípios
 
 Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do respectivo Estado e os seguintes preceitos:
 
@@ -514,13 +502,9 @@ Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Mu
 
 § 4º É vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais.
 
-CAPÍTULO V
+### CAPÍTULO V - DO DISTRITO FEDERAL E DOS TERRITÓRIOS
 
-DO DISTRITO FEDERAL E DOS TERRITÓRIOS
-
-**SEÇÃO I**
-
-**DO DISTRITO FEDERAL**
+#### SEÇÃO I - **DO DISTRITO FEDERAL**
 
 Art. 32. O Distrito Federal, vedada sua divisão em Municípios, reger- se-á por lei orgânica, votada em dois turnos com interstício mínimo de dez dias, e aprovada por dois terços da Câmara Legislativa, que a promulgará, atendidos os princípios estabelecidos nesta Constituição.
 
@@ -532,9 +516,7 @@ Art. 32. O Distrito Federal, vedada sua divisão em Municípios, reger- se-á po
 
 § 4º Lei federal disporá sobre a utilização, pelo Governo do Distrito Federal, das polícias civil e militar e do corpo de bombeiros militar.
 
-**SEÇÃO II**
-
-**DOS TERRITÓRIOS**
+#### SEÇÃO II - **DOS TERRITÓRIOS**
 
 Art. 33. A lei disporá sobre a organização administrativa e judiciária dos Territórios.
 
@@ -544,9 +526,7 @@ Art. 33. A lei disporá sobre a organização administrativa e judiciária dos T
 
 § 3º Nos Territórios Federais com mais de cem mil habitantes, além do Governador nomeado na forma desta Constituição, haverá órgãos judiciários de primeira e segunda instância, membros do Ministério Público e defensores públicos federais; a lei disporá sobre as eleições para a Câmara Territorial e sua competência deliberativa.
 
-CAPÍTULO VI
-
-DA INTERVENÇÃO
+### CAPÍTULO VI - DA INTERVENÇÃO
 
 Art. 34. A União não intervirá nos Estados nem no Distrito Federal, exceto para:
 
@@ -612,13 +592,9 @@ IV - de provimento, pelo Superior Tribunal de Justiça, de representação do Pr
 
 § 4º Cessados os motivos da intervenção, as autoridades afastadas de seus cargos a estes voltarão, salvo impedimento legal.
 
-CAPÍTULO VII
+### CAPÍTULO VII - DA ADMINISTRAÇÃO PÚBLICA
 
-DA ADMINISTRAÇÃO PÚBLICA
-
-**SEÇÃO I**
-
-**DISPOSIÇÕES GERAIS**
+#### SEÇÃO I - **DISPOSIÇÕES GERAIS**
 
 Art. 37. A administração pública direta, indireta ou fundacional, de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e, também, ao seguinte:
 
@@ -760,11 +736,9 @@ IV - em qualquer caso que exija o afastamento para o exercício de mandato eleti
 
 V - para efeito de benefício previdenciário, no caso de afastamento, os valores serão determinados como se no exercício estivesse.
 
-**SEÇÃO II**
+#### ~~SEÇÃO II - **DOS SERVIDORES PÚBLICOS CIVIS**~~
 
-**DOS SERVIDORES PÚBLICOS CIVIS**
-
-**DOS SERVIDORES PÚBLICOS**
+#### SEÇÃO II - **DOS SERVIDORES PÚBLICOS**
 
 [\(Redação dada pela Emenda Constitucional nº 18, de 1998\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc18.htm#art2)
 
@@ -932,11 +906,9 @@ III - mediante procedimento de avaliação periódica de desempenho, na forma de
 
 § 4º Como condição para a aquisição da estabilidade, é obrigatória a avaliação especial de desempenho por comissão instituída para essa finalidade.  [\(Incluído pela Emenda Constitucional nº 19, de 1998\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc19.htm#art6)
 
-**SEÇÃO III**
+### ~~SEÇÃO III - **DOS SERVIDORES PÚBLICOS MILITARES**~~
 
-**DOS SERVIDORES PÚBLICOS MILITARES**
-
-**DOS MILITARES DOS ESTADOS, DO DISTRITO FEDERAL E DOS TERRITÓRIOS**
+### SEÇÃO III - **DOS MILITARES DOS ESTADOS, DO DISTRITO FEDERAL E DOS TERRITÓRIOS**
 
 [\(Redação dada pela Emenda Constitucional nº 18, de 1998\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc18.htm#art2)
 
@@ -978,9 +950,7 @@ Art. 42 Os membros das Polícias Militares e Corpos de Bombeiros Militares, inst
 
 § 2º Aos pensionistas dos militares dos Estados, do Distrito Federal e dos Territórios aplica-se o que for fixado em lei específica do respectivo ente estatal.    [\(Redação dada pela Emenda Constitucional nº 41, 19.12.2003\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc41.htm#art1)
 
-**SEÇÃO IV**
-
-**DAS REGIÕES**
+#### SEÇÃO IV - **DAS REGIÕES**
 
 Art. 43. Para efeitos administrativos, a União poderá articular sua ação em um mesmo complexo geoeconômico e social, visando a seu desenvolvimento e à redução das desigualdades regionais.
 
@@ -1001,4 +971,3 @@ III - isenções, reduções ou diferimento temporário de tributos federais dev
 IV - prioridade para o aproveitamento econômico e social dos rios e das massas de água represadas ou represáveis nas regiões de baixa renda, sujeitas a secas periódicas.
 
 § 3º Nas áreas a que se refere o § 2º, IV, a União incentivará a recuperação de terras áridas e cooperará com os pequenos e médios proprietários rurais para o estabelecimento, em suas glebas, de fontes de água e de pequena irrigação.
-

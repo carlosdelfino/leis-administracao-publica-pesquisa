@@ -1,10 +1,6 @@
-CAPÍTULO II
+## CAPÍTULO II - DO PODER EXECUTIVO
 
-DO PODER EXECUTIVO
-
-**SEÇÃO I**
-
-**DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA**
+### SEÇÃO I - **DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA**
 
 Art. 76. O Poder Executivo é exercido pelo Presidente da República, auxiliado pelos Ministros de Estado.
 
@@ -44,9 +40,7 @@ Art. 82. O mandato do Presidente da República é de quatro anos e terá início
 
 Art. 83. O Presidente e o Vice-Presidente da República não poderão, sem licença do Congresso Nacional, ausentar-se do País por período superior a quinze dias, sob pena de perda do cargo.
 
-**SEÇÃO II**
-
-**DAS ATRIBUIÇÕES DO PRESIDENTE DA REPÚBLICA**
+### SEÇÃO II - **DAS ATRIBUIÇÕES DO PRESIDENTE DA REPÚBLICA**
 
 Art. 84. Compete privativamente ao Presidente da República:
 
