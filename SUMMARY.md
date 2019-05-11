@@ -14,7 +14,8 @@
 
 ## Leis
 
-* [Apresentação](leis/leis-apresentacao.md)
+* [Apresentação](leis/README.md)
+* [Tipos de Leis](/leis/tipos-de-leis.md)
 
 ## Lei de Improbidade Administrativa
 
