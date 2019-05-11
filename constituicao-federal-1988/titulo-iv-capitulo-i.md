@@ -1,20 +1,10 @@
-**TÍTULO IV**
+### TÍTULO IV - **DA ORGANIZAÇÃO DOS PODERES**
 
-> **DA ORGANIZAÇÃO DOS PODERES**
->
-> **TÍTULO IV**
->
-> **DA ORGANIZAÇÃO DOS PODERES**
->
-> [\(Redação dada pela Emenda Constitucional nº 80, de 2014\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc80.htm#art1)
->
-> CAPÍTULO I
->
-> DO PODER LEGISLATIVO
->
-> **SEÇÃO I**
->
-> **DO CONGRESSO NACIONAL**
+[\(Redação dada pela Emenda Constitucional nº 80, de 2014\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc80.htm#art1)
+
+#### CAPÍTULO I - DO PODER LEGISLATIVO
+
+##### SEÇÃO I** - **DO CONGRESSO NACIONAL**
 
 Art. 44. O Poder Legislativo é exercido pelo Congresso Nacional, que se compõe da Câmara dos Deputados e do Senado Federal.
 
@@ -36,9 +26,7 @@ Art. 46. O Senado Federal compõe-se de representantes dos Estados e do Distrito
 
 Art. 47. Salvo disposição constitucional em contrário, as deliberações de cada Casa e de suas Comissões serão tomadas por maioria dos votos, presente a maioria absoluta de seus membros.
 
-**SEÇÃO II**
-
-**DAS ATRIBUIÇÕES DO CONGRESSO NACIONAL**
+#### SEÇÃO II - **DAS ATRIBUIÇÕES DO CONGRESSO NACIONAL**
 
 Art. 48. Cabe ao Congresso Nacional, com a sanção do Presidente da República, não exigida esta para o especificado nos arts. 49, 51 e 52, dispor sobre todas as matérias de competência da União, especialmente sobre:
 
@@ -130,9 +118,7 @@ Art. 50. A Câmara dos Deputados e o Senado Federal, ou qualquer de suas Comiss�
 
 § 2º As Mesas da Câmara dos Deputados e do Senado Federal poderão encaminhar pedidos escritos de informações a Ministros de Estado ou a qualquer das pessoas referidas no caput deste artigo, importando em crime de responsabilidade a recusa, ou o não - atendimento, no prazo de trinta dias, bem como a prestação de informações falsas.  [\(Redação dada pela Emenda Constitucional de Revisão nº 2, de 1994\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/ECR/ecr2.htm#art50%C2%A72)
 
-**SEÇÃO III**
-
-**DA CÂMARA DOS DEPUTADOS**
+##### SEÇÃO III - **DA CÂMARA DOS DEPUTADOS**
 
 Art. 51. Compete privativamente à Câmara dos Deputados:
 
@@ -148,9 +134,7 @@ IV - dispor sobre sua organização, funcionamento, polícia, criação, transfo
 
 V - eleger membros do Conselho da República, nos termos do art. 89, VII.
 
-**SEÇÃO IV**
-
-**DO SENADO FEDERAL**
+##### SEÇÃO IV - **DO SENADO FEDERAL**
 
 Art. 52. Compete privativamente ao Senado Federal:
 
@@ -204,9 +188,7 @@ XV - avaliar periodicamente a funcionalidade do Sistema Tributário Nacional, em
 
 Parágrafo único. Nos casos previstos nos incisos I e II, funcionará como Presidente o do Supremo Tribunal Federal, limitando-se a condenação, que somente será proferida por dois terços dos votos do Senado Federal, à perda do cargo, com inabilitação, por oito anos, para o exercício de função pública, sem prejuízo das demais sanções judiciais cabíveis.
 
-**SEÇÃO V**
-
-**DOS DEPUTADOS E DOS SENADORES**
+###### SEÇÃO V - **DOS DEPUTADOS E DOS SENADORES**
 
 Art. 53. Os Deputados e Senadores são invioláveis por suas opiniões, palavras e votos.
 
@@ -296,9 +278,7 @@ II - licenciado pela respectiva Casa por motivo de doença, ou para tratar, sem 
 
 § 3º Na hipótese do inciso I, o Deputado ou Senador poderá optar pela remuneração do mandato.
 
-**SEÇÃO VI**
-
-**DAS REUNIÕES**
+##### - SEÇÃO VI - **DAS REUNIÕES**
 
 Art. 57. O Congresso Nacional reunir-se-á, anualmente, na Capital Federal, de 15 de fevereiro a 30 de junho e de 1º de agosto a 15 de dezembro.
 
@@ -344,9 +324,7 @@ II - pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e
 
 § 8º Havendo medidas provisórias em vigor na data de convocação extraordinária do Congresso Nacional, serão elas automaticamente incluídas na pauta da convocação.  [\(Incluído pela Emenda Constitucional nº 32, de 2001\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc32.htm#art1)
 
-**SEÇÃO VII**
-
-**DAS COMISSÕES**
+##### SEÇÃO VII - **DAS COMISSÕES**
 
 Art. 58. O Congresso Nacional e suas Casas terão comissões permanentes e temporárias, constituídas na forma e com as atribuições previstas no respectivo regimento ou no ato de que resultar sua criação.
 
@@ -370,14 +348,11 @@ VI - apreciar programas de obras, planos nacionais, regionais e setoriais de des
 
 § 4º Durante o recesso, haverá uma Comissão representativa do Congresso Nacional, eleita por suas Casas na última sessão ordinária do período legislativo, com atribuições definidas no regimento comum, cuja composição reproduzirá, quanto possível, a proporcionalidade da representação partidária.
 
-**SEÇÃO VIII**
+##### SEÇÃO VIII - **DO PROCESSO LEGISLATIVO**
 
-**DO PROCESSO LEGISLATIVO**
+###### SUBSEÇÃO I - **DISPOSIÇÃO GERAL**
 
-**SUBSEÇÃO I**
-
-**DISPOSIÇÃO GERAL**
-
+{#art59}
 Art. 59. O processo legislativo compreende a elaboração de:
 
 I - emendas à Constituição;
@@ -396,10 +371,9 @@ VII - resoluções.
 
 Parágrafo único. Lei complementar disporá sobre a elaboração, redação, alteração e consolidação das leis.
 
-**SUBSEÇÃO II**
+###### SUBSEÇÃO II - **DA EMENDA À CONSTITUIÇÃO**
 
-**DA EMENDA À CONSTITUIÇÃO**
-
+{#art-60}
 Art. 60. A Constituição poderá ser emendada mediante proposta:
 
 I - de um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal;
@@ -426,10 +400,9 @@ IV - os direitos e garantias individuais.
 
 § 5º A matéria constante de proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa.
 
-**SUBSEÇÃO III**
+###### SUBSEÇÃO III - **DAS LEIS**
 
-**DAS LEIS**
-
+{#art-61}
 Art. 61. A iniciativa das leis complementares e ordinárias cabe a qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da República, ao Supremo Tribunal Federal, aos Tribunais Superiores, ao Procurador-Geral da República e aos cidadãos, na forma e nos casos previstos nesta Constituição.
 
 § 1º São de iniciativa privativa do Presidente da República as leis que:
@@ -456,10 +429,12 @@ f\) militares das Forças Armadas, seu regime jurídico, provimento de cargos, p
 
 § 2º A iniciativa popular pode ser exercida pela apresentação à Câmara dos Deputados de projeto de lei subscrito por, no mínimo, um por cento do eleitorado nacional, distribuído pelo menos por cinco Estados, com não menos de três décimos por cento dos eleitores de cada um deles.
 
-Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional, que, estando em recesso, será convocado extraordinariamente para se reunir no prazo de cinco dias.
+{#art-62}
+~~Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional, que, estando em recesso, será convocado extraordinariamente para se reunir no prazo de cinco dias.~~
 
-Parágrafo único. As medidas provisórias perderão eficácia, desde a edição, se não forem convertidas em lei no prazo de trinta dias, a partir de sua publicação, devendo o Congresso Nacional disciplinar as relações jurídicas delas decorrentes.
+~~Parágrafo único. As medidas provisórias perderão eficácia, desde a edição, se não forem convertidas em lei no prazo de trinta dias, a partir de sua publicação, devendo o Congresso Nacional disciplinar as relações jurídicas delas decorrentes.~~
 
+{#art-62-redacao-ec32-2001}
 Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional.  [\(Redação dada pela Emenda Constitucional nº 32, de 2001\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc32.htm#art1)
 
 § 1º É vedada a edição de medidas provisórias sobre matéria:    [\(Incluído pela Emenda Constitucional nº 32, de 2001\)](https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc32.htm#art1)
@@ -562,9 +537,7 @@ III - planos plurianuais, diretrizes orçamentárias e orçamentos.
 
 Art. 69. As leis complementares serão aprovadas por maioria absoluta.
 
-**SEÇÃO IX**
-
-**DA FISCALIZAÇÃO CONTÁBIL, FINANCEIRA E ORÇAMENTÁRIA**
+##### SEÇÃO IX - **DA FISCALIZAÇÃO CONTÁBIL, FINANCEIRA E ORÇAMENTÁRIA**
 
 Art. 70. A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder.
 
@@ -651,4 +624,3 @@ IV - apoiar o controle externo no exercício de sua missão institucional.
 Art. 75. As normas estabelecidas nesta seção aplicam-se, no que couber, à organização, composição e fiscalização dos Tribunais de Contas dos Estados e do Distrito Federal, bem como dos Tribunais e Conselhos de Contas dos Municípios.
 
 Parágrafo único. As Constituições estaduais disporão sobre os Tribunais de Contas respectivos, que serão integrados por sete Conselheiros.
-
