@@ -6,6 +6,7 @@
 * [Ajuda](ajuda.md)
 * [Sumário](SUMMARY.md)
 * [Glossário](glossario.md)
+* [Referências](referencias.md)
 
 ## Pesquisas Acadêmicas
 
