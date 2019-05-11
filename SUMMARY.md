@@ -36,13 +36,13 @@
 
 ## Lei de Inovação
 
-* [Apresentação](lei-da-inovacao-apresentacao.md)
-* [Capitulo I](/lei-de-inovacao-capitulo-i.md)
-* [Capitulo II](/lei-de-inovacao-capitulo-ii.md)
-* [Capitulo III](/lei-de-inovacao-capitulo-iii.md)
-* [Capitulo IV](/lei-de-inovacao-capitulo-iv.md)
-* [Capitulo V](/lei-de-inovacao-capitulo-v.md)
-* [Capítulo VI, VII e Disposições Finais](/lei-de-inovacao-capitulo-vi-vii-e-disposicoes-finais.md)
+* [Apresentação](/lei-de-inovacao/README.md)
+* [Capitulo I](/lei-de-inovacao/capitulo-i.md)
+* [Capitulo II](/lei-de-inovacao/capitulo-ii.md)
+* [Capitulo III](/lei-de-inovacao/capitulo-iii.md)
+* [Capitulo IV](/lei-de-inovacao/capitulo-iv.md)
+* [Capitulo V](/lei-de-inovacao/capitulo-v.md)
+* [Capítulo VI, VII e Disposições Finais](/lei-de-inovacao/capitulo-vi-vii-e-disposicoes-finais.md)
 
 ## Constituição Federal
 
