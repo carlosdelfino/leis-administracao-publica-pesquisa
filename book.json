@@ -1,89 +1,94 @@
 {
-   "title": "A Administração Pública, A Pesquisa Ciêntifica e Nossa Sociedade",
-   "language": "pt",
-   "plugins": [
-       "richquotes",
-       "disqus",
-       "extend-default-theme",
-       "search",
-       "image-captions",
-       "katex",
-       "indexes",
-       "customtheme",
-       "theme-api",
-       "theme-default",
-       "jsfiddle",
-       "ace",
-       "ga",
-       "wabtheme",
-       "page-toc"
-   ],
-   "pluginsConfig": {
-       "disqus": {
-           "shortName": "administracaopublicapesquisacientificaesociedade",
-           "useIdentifier": true
-       },
-       "page-toc": {
-           "selector": " .markdown-section h2, .markdown-section h3, .markdown-section h4",
-           "position": "before-first"
-       },
-       "layout": {
-           "headerPath": "assets/layouts/header.html",
-           "footerPath": "assets/layouts/footer.html"
-       },
-       "richquotes": {
-           "default": true
-       },
-       "ga": {
-           "token": "UA-21710445-1",
-           "configuration": "auto"
-       },
-       "sharing": {
-           "facebook": true,
-           "twitter": true,
-           "google": true,
-           "weibo": false,
-           "instapaper": true,
-           "vk": false,
-           "all": [
-               "facebook",
-               "google",
-               "twitter",
-               "weibo",
-               "instapaper",
-               "vk"
-           ]
-       },
-       "image-captions": {
-           "caption": "Imagem _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_",
-           "list_caption": "Lista de Imagens _BOOK_IMAGE_NUMBER_: _CAPTION_",
-           "variable_name": "picturesList",
-           "Images": {
-               "1.1.1": {
-                  "skip": "true"
-               }
-           }
-       }
-   },
-   "structure": {
-       "readme": "readme.md",
-       "glossary": "glossario.md",
-       "summary": "SUMMARY.md"
-   },
-   "variables": {
-       "Version": "0.1"
-   },
-   "styles": { 
-     "website": "assets/styles/website.css", 
-     "ebook": "assets/styles/ebook.css", 
-     "pdf": "assets/styles/pdf.css", 
-     "mobi": "assets/styles/ebook.css", 
-     "epub": "assets/styles/ebook.css" 
+    "title": "A Administração Pública, A Pesquisa Científica e Nossa Sociedade",
+    "author": "Carlos Delfino <consultoria@carlosdelfino.eti.br",
+    "description": "Um livro de anotações sobre a Administração pública, a pesquisa científica e nossa sociedade, sendo de livre acesso para que todos possam comentar e adicionar novas informações e atualizar as leis quando assim for necessário.",
+    "language": "pt",
+    "plugins": [
+        "theme-default",
+        "theme-ztbcms-docs",
+        "-theme-gestalt",
+        "-theme-pdftoc",
+        "-theme-fexa",
+        "-theme-fabric",
+        "-customtheme",
+        "-styles-sass-fix",
+        "search",
+        "indexes",
+        "page-toc",
+        "image-captions",
+        "richquotes",
+        "disqus",
+        "lunr",
+        "ga",
+        "-pdf-styling"
+    ],
+    "pluginsConfig": {
+        "pdf-styling": {},
+        "disqus": {
+            "shortName": "administracaopublicapesquisacientificaesociedade",
+            "useIdentifier": true
+        },
+        "page-toc": {
+            "selector": " .markdown-section h2, .markdown-section h3, .markdown-section h4",
+            "position": "before-first"
+        },
+        "layout": {
+            "headerPath": "assets/layouts/header.html",
+            "footerPath": "assets/layouts/footer.html"
+        },
+        "richquotes": {
+            "default": true
+        },
+        "ga": {
+            "token": "UA-21710445-1",
+            "configuration": "auto"
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": false,
+            "instapaper": true,
+            "vk": false,
+            "all": [
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper",
+                "vk"
+            ]
+        },
+        "image-captions": {
+            "caption": "Imagem _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_",
+            "list_caption": "Lista de Imagens _BOOK_IMAGE_NUMBER_: _CAPTION_",
+            "variable_name": "picturesList",
+            "Images": {
+                "1.1.1": {
+                    "skip": "true"
+                }
+            }
+        }
+    },
+    "structure": {
+        "readme": "README.md",
+        "glossary": "glossario.md",
+        "summary": "SUMMARY.md"
+    },
+    "variables": {
+        "Version": "0.1"
+    },
+    "styles": {
+        "website": "assets/styles/website.css",
+        "ebook": "assets/styles/ebook.css",
+        "pdf": "assets/styles/pdf.css",
+        "mobi": "assets/styles/ebook.css",
+        "epub": "assets/styles/ebook.css"
     },
     "links": {
-       "sidebar": {
-           "Fontes Originais": "http://github.com/carlosdelfino/leis-administracao-publica-pesquisa",
-           "Sugestão de Correções": "http://github.com/CarlosDelfino/leis-administracao-publica-pesquisa/issues"
-       }
+        "sidebar": {
+            "Fontes Originais": "http://github.com/carlosdelfino/leis-administracao-publica-pesquisa",
+            "Sugestão de Correções": "http://github.com/CarlosDelfino/leis-administracao-publica-pesquisa/issues"
+        }
     }
 }
