@@ -31,6 +31,10 @@ _book/
 book.pdf
 book.epub
 book.mobi
+gulpfile.js
 
 *.xcf
 **/*.xcf
+
+package.json
+package-lock.json
