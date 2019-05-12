@@ -96,7 +96,7 @@ as MPs devem ser votadas em até 60 dias, podendo este prazo ser prorrogado por 
 
 ### [Decretos Legislativos](#) {#decretos-legislativos}
 
-Se houver a aprovação de PLV ([Projeto de Lei de Conversão](#leis-de-conversao)), rejeição ou perda de eficácia da MPV ([Medida Provisória](#medidas-provisorias), o Congresso Nacional detém a prerrogativa de disciplinar, por decreto legislativo, as relações jurídicas decorrentes de sua edição. 
+Se houver a aprovação de PLV ([Projeto de Lei de Conversão](#leis-de-conversao)), rejeição ou perda de eficácia da MPV ([Medida Provisória](#medidas-provisorias), o Congresso Nacional detém a prerrogativa de disciplinar, por decreto legislativo, as relações jurídicas decorrentes de sua edição. É um documento normativo que regula as matérias de competência exclusiva do Poder Legislativo. _Por meio de decretos legislativos o Congresso Nacional julga as contas do Presidente da República; resolve definitivamente sobre tratados, acordos ou atos internacionais; aprecia atos de concessão ou renovação de concessão de emissoras de rádio e televisão; autoriza que o Presidente da República se ausente do País por mais de quinze dias; disciplina as relações jurídicas decorrentes de medidas provisórias não convertidas em lei; escolhe dois terços dos Ministros do TCU; autoriza referendo e convoca plebiscito; e susta atos normativos do Poder Executivo que exorbitem do poder regulamentar._
 
 ### [Resoluções](#) {#resolucoes}
 
