@@ -1,8 +1,6 @@
-Capítulo II  
-Da Licitação
+## Capítulo II - Da Licitação
 
-**Seção I  
-Das Modalidades, Limites e Dispensa**
+### Seção I - **Das Modalidades, Limites e Dispensa**
 
 Art. 20.  As licitações serão efetuadas no local onde se situar a repartição interessada, salvo por motivo de interesse público, devidamente justificado.
 
