@@ -10,5 +10,5 @@ Na seção [Leis](/leis/leis-apresentacao.md) listo as leis, seja ordinárias, d
 
 Veja na página "[Ajuda](/ajuda.md)" como deve proceder para solicitar ajuda, sugerir melhorias ou oferecer colaboração.
 
-Para visualizar o conteúdo trato em forma estruturada vá para [Sumário](/SUMMARY.md). No [Glossário ](/glossario.md)pode ser visto alguns definições de termos utilizados neste livro.
+Para visualizar o conteúdo trato em forma estruturada vá para [Sumário](/sumario.md). No [Glossário](/glossario.md)pode ser visto alguns definições de termos utilizados neste livro.
 

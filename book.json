@@ -73,7 +73,7 @@
     "structure": {
         "readme": "README.md",
         "glossary": "glossario.md",
-        "summary": "SUMMARY.md"
+        "summary": "sumario.md"
     },
     "variables": {
         "Version": "0.1"

@@ -4,7 +4,6 @@
 
 * [Introdução](README.md)
 * [Ajuda](ajuda.md)
-* [Sumário](SUMMARY.md)
 * [Glossário](glossario.md)
 * [Referências](referencias.md)
 
@@ -29,9 +28,9 @@
 * [Apresentação](/lei-de-licitacoes-e-contratos/README.md)
 * [Capitulo I](/lei-de-licitacoes-e-contratos/capitulo-i.md)
 * Capitulo II
-   * [Capitulo II - Seção I](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-i.md)
-   * [Capitulo II - Seção II](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-ii.md)
-   * [Capitulo II - Seção III e IV](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-iii-e-iv.md)
+   * [Seção I](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-i.md)
+   * [Seção II](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-ii.md)
+   * [Seção III e IV](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-iii-e-iv.md)
 * Capitulo III
    * [Seção I e II](/lei-de-licitacoes-e-contratos/capitulo-iii-secao-i-e-ii.md)
    * [Seção III ate IV](/lei-de-licitacoes-e-contratos/capitulo-iii-secao-iii-ate-iv.md)
