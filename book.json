@@ -87,6 +87,7 @@
     },
     "links": {
         "sidebar": {
+            "PDF": "./book.pdf",
             "Fontes Originais": "http://github.com/carlosdelfino/leis-administracao-publica-pesquisa",
             "Sugestão de Correções": "http://github.com/CarlosDelfino/leis-administracao-publica-pesquisa/issues"
         }
