@@ -1,1 +1,0 @@
-https://gldraphael.com/blog/publishing-gitbook-to-github-pages/
