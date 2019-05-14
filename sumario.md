@@ -7,8 +7,6 @@
 * [Glossário](glossario.md)
 * [Referências](referencias.md)
 
-## Lei de Informática
-
 ## Pesquisas Acadêmicas
 
 * [Apresentação](pesquisas-academicas/README.md)
@@ -48,6 +46,12 @@
 * [Capitulo IV](/lei-de-inovacao/capitulo-iv.md)
 * [Capitulo V](/lei-de-inovacao/capitulo-v.md)
 * [Capítulo VI, VII e Disposições Finais](/lei-de-inovacao/capitulo-vi-vii-e-disposicoes-finais.md)
+
+## Lei de Informática
+
+* [Apresentação](lei-de-informatica/apresentacao.md)
+* [Artigo 1 ao 8](lei-de-informatica/artigo-1-ao-8.md)
+* [Artigo 9 ao 17](lei-de-informatica/artigo-9-ao-17.md)
 
 ## Estatuto da Criança e do Adolescente
 
@@ -94,9 +98,3 @@
   * [Capitulo III](/constituicao-federal-1988/titulo-viii-capitulo-iii.md)
   * [Capítulo IV até VIII](/constituicao-federal-1988/titulo-viii-capitulo-iv-ate-viii.md)
 * [Título IX - Assinaturas](/constituicao-federal-1988/titulo-ix-assinaturas.md)
-
-## Lei de Informática
-
-* Apresentação
-* Artigo 1 ao 8
-
