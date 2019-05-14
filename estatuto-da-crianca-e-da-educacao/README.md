@@ -1,5 +1,4 @@
-| LEI 8.069/1990 \(LEI ORDINÁRIA\) 13/07/1990 00:00:00 |
-| :--- |
+## LEI 8.069/1990 \(LEI ORDINÁRIA\) 13/07/1990 -  Estatuto da Criança e do Adolescente
 
 
 | Ementa: | DISPÕE SOBRE O ESTATUTO DA CRIANÇA E DO ADOLESCENTE E DÁ OUTRAS PROVIDÊNCIAS. |
