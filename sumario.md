@@ -50,9 +50,24 @@
 ## Estatuto da Criança e do Adolescente
 
 * [Apresentação](/estatuto-da-crianca-e-do-adolescente/README.md)
-* [ Título I](/estatuto-da-crianca-e-do-adolescente/titulo-i.md)
-* [ Título II](/estatuto-da-crianca-e-do-adolescente/titulo-ii.md)
-
+* [Título I](/estatuto-da-crianca-e-do-adolescente/titulo-i.md)
+* Título II
+   * [Capítulo I](/estatuto-da-crianca-e-do-adolescente/titulo-ii-capitulo-i.md)
+   * [Capítulo II](/estatuto-da-crianca-e-do-adolescente/titulo-ii-capitulo-ii.md)
+   * Capítulo III
+      * [Seção I](/estatuto-da-crianca-e-do-adolescente/titulo-ii-capitulo-iii-secao-i.md)
+      * [Seção II](/estatuto-da-crianca-e-do-adolescente/titulo-ii-capitulo-iii-secao-ii.md)
+      * [Seção III](/estatuto-da-crianca-e-do-adolescente/titulo-ii-capitulo-iii-secao-iii.md)
+   * [Capítulo Iv](/estatuto-da-crianca-e-do-adolescente/titulo-ii-capitulo-iv.md)
+* [Título III](/estatuto-da-crianca-e-do-adolescente/titulo-iii.md)
+* Parte Especial
+   * [Título I](/estatuto-da-crianca-e-do-adolescente/parte-especial/titulo-i.md)
+   * [Título II](/estatuto-da-crianca-e-do-adolescente/parte-especial/titulo-ii.md)
+   * [Título III](/estatuto-da-crianca-e-do-adolescente/parte-especial/titulo-iii.md)
+   * [Título IV e V](/estatuto-da-crianca-e-do-adolescente/parte-especial/titulo-iv-e-v.md)
+   * [Título VI](/estatuto-da-crianca-e-do-adolescente/parte-especial/titulo-vi.md)
+   * [Título VII](/estatuto-da-crianca-e-do-adolescente/parte-especial/titulo-vii.md)
+* [Disposições Finais e Transitórias](/estatuto-da-crianca-e-do-adolescente/disposicoes-finais-e-transitorias.md)
 
 ## Constituição Federal
 
