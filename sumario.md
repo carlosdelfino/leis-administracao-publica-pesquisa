@@ -98,4 +98,5 @@
 ## Lei de Informática
 
 * Apresentação
+* Artigo 1 ao 8
 
