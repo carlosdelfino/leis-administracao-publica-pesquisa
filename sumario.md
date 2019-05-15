@@ -69,11 +69,18 @@
   * [Título VII](/estatuto-da-crianca-e-do-adolescente/parte-especial/titulo-vii.md)
 * [Disposições Finais e Transitórias](/estatuto-da-crianca-e-do-adolescente/disposicoes-finais-e-transitorias.md)
 
-## LDB – Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394, de 20.12.1996)
+## LDB – Lei de Diretrizes e Bases da Educação Nacional \(Lei nº 9.394, de 20.12.1996\)
 
 * [Apresentação](/lei-de-diretrizes-e-bases-da-educacao-nacional/README.md)
+* [Título I ao III](lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-i-ao-iii.md)
+* [Título IV](lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-iv.md)
 
-## DCN – Diretrizes Curriculares Nacionais do Curso de Administração, Bacharelado (Resolução CNE/CES nº 4 de 13.07.2005)
+## Título V
+
+* [Capítulo I](titulo-v/capitulo-i.md)
+* [Capítulo II](titulo-v/capitulo-ii.md)
+
+## DCN – Diretrizes Curriculares Nacionais do Curso de Administração, Bacharelado \(Resolução CNE/CES nº 4 de 13.07.2005\)
 
 ## Constituição Federal
 
@@ -99,8 +106,9 @@
   * [Capítulo IV até VIII](/constituicao-federal-1988/titulo-viii-capitulo-iv-ate-viii.md)
 * [Título IX - Assinaturas](/constituicao-federal-1988/titulo-ix-assinaturas.md)
 
-## 
+---
 
 * [Ajuda](ajuda.md)
 * [Glossário](glossario.md)
 * [Referências](referencias.md)
+
