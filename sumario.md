@@ -82,6 +82,7 @@
 * [Capítulo II](titulo-v/capitulo-ii.md)
 * [Capítulo III](titulo-v/capitulo-iii.md)
 * [Capítulo IV](titulo-v/capitulo-iv.md)
+* [Capítulo V](titulo-v/capitulo-v.md)
 
 ## DCN – Diretrizes Curriculares Nacionais do Curso de Administração, Bacharelado \(Resolução CNE/CES nº 4 de 13.07.2005\)
 
