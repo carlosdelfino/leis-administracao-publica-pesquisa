@@ -3,13 +3,7 @@
 ## Introdução
 
 * [Introdução](README.md)
-* [Ajuda](ajuda.md)
-* [Glossário](glossario.md)
-* [Referências](referencias.md)
-
-## Pesquisas Acadêmicas
-
-* [Apresentação](pesquisas-academicas/README.md)
+* [Pesquisas Acadêmicas](pesquisas-academicas/README.md)
 * [Pesquisas com Reciclagem](pesquisas-academicas/pesquisas-com-reciclagem.md)
 
 ## Leis
@@ -75,6 +69,12 @@
   * [Título VII](/estatuto-da-crianca-e-do-adolescente/parte-especial/titulo-vii.md)
 * [Disposições Finais e Transitórias](/estatuto-da-crianca-e-do-adolescente/disposicoes-finais-e-transitorias.md)
 
+## LDB – Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394, de 20.12.1996)
+
+* [Apresentação](/lei-de-diretrizes-e-bases-da-educacao-nacional/README.md)
+
+## DCN – Diretrizes Curriculares Nacionais do Curso de Administração, Bacharelado (Resolução CNE/CES nº 4 de 13.07.2005)
+
 ## Constituição Federal
 
 * [Apresentação](/constituicao-federal-1988/README.md)
@@ -98,3 +98,9 @@
   * [Capitulo III](/constituicao-federal-1988/titulo-viii-capitulo-iii.md)
   * [Capítulo IV até VIII](/constituicao-federal-1988/titulo-viii-capitulo-iv-ate-viii.md)
 * [Título IX - Assinaturas](/constituicao-federal-1988/titulo-ix-assinaturas.md)
+
+## 
+
+* [Ajuda](ajuda.md)
+* [Glossário](glossario.md)
+* [Referências](referencias.md)
