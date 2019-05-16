@@ -77,7 +77,6 @@
 * Título V
   * [Capítulo I](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-i.md)
   * [Capítulo II](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-ii.md)
-  * [Capítulo II](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-ii.md)
   * [Capítulo III](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-iii.md)
   * [Capítulo IV](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-iv.md)
   * [Capítulo V](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-v.md)
