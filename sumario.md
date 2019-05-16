@@ -72,17 +72,16 @@
 ## LDB – Lei de Diretrizes e Bases da Educação Nacional \(Lei nº 9.394, de 20.12.1996\)
 
 * [Apresentação](/lei-de-diretrizes-e-bases-da-educacao-nacional/README.md)
-* [Título I ao III](lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-i-ao-iii.md)
-* [Título IV](lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-iv.md)
-
-## Título V
-
-* [Capítulo I](titulo-v/capitulo-i.md)
-* [Capítulo II](titulo-v/capitulo-ii.md)
-* [Capítulo II](titulo-v/capitulo-ii.md)
-* [Capítulo III](titulo-v/capitulo-iii.md)
-* [Capítulo IV](titulo-v/capitulo-iv.md)
-* [Capítulo V](titulo-v/capitulo-v.md)
+* [Título I ao III](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-i-ao-iii.md)
+* [Título IV](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-iv.md)
+* Título V
+  * [Capítulo I](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-i.md)
+  * [Capítulo II](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-ii.md)
+  * [Capítulo II](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-ii.md)
+  * [Capítulo III](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-iii.md)
+  * [Capítulo IV](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-iv.md)
+  * [Capítulo V](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-v.md)
+* Título VI
 
 ## DCN – Diretrizes Curriculares Nacionais do Curso de Administração, Bacharelado \(Resolução CNE/CES nº 4 de 13.07.2005\)
 
