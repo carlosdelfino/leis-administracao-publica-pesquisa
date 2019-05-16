@@ -81,6 +81,9 @@
   * [Capítulo IV](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-iv.md)
   * [Capítulo V](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-v.md)
 * Título VI
+* [Título VII](lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-vii.md)
+* [Título VIII](lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-viii.md)
+* Título IX
 
 ## DCN – Diretrizes Curriculares Nacionais do Curso de Administração, Bacharelado \(Resolução CNE/CES nº 4 de 13.07.2005\)
 
