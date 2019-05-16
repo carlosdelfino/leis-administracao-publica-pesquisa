@@ -72,7 +72,8 @@
 ## LDB – Lei de Diretrizes e Bases da Educação Nacional \(Lei nº 9.394, de 20.12.1996\)
 
 * [Apresentação](/lei-de-diretrizes-e-bases-da-educacao-nacional/README.md)
-* [Título I ao III](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-i-ao-iii.md)
+* [Título I ao II](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-i-e-ii.md)
+* [Título III](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-iii.md)
 * [Título IV](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-iv.md)
 * Título V
   * [Capítulo I](/lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-v/capitulo-i.md)
@@ -84,10 +85,6 @@
 * [Título VII](lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-vii.md)
 * [Título VIII](lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-viii.md)
 * [Título IX](lei-de-diretrizes-e-bases-da-educacao-nacional/titulo-ix.md)
-
-## DCN – Diretrizes Curriculares Nacionais do Curso de Administração, Bacharelado \(Resolução CNE/CES nº 4 de 13.07.2005\)
-
-* [Apresentação](dcn-diretrizes-curriculares-nacionais-do-curso-de-administracao-bacharelado-resolucao-cneces-n-4-de-13072005/readme.md)
 
 ## Constituição Federal
 
