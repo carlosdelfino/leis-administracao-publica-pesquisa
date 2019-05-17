@@ -34,6 +34,10 @@
 ## Política Nacional de Resíduos Sólidos - PNRS
 
 * [Apresentação](/politica-nacional-de-residuos-solidos/README.md)
+* [Título I](politica-nacional-de-residuos-solidos/titulo-i.md)
+* [Título II](politica-nacional-de-residuos-solidos/titulo-ii.md)
+* [Título III](politica-nacional-de-residuos-solidos/titulo-iii.md)
+* [Título IV](politica-nacional-de-residuos-solidos/titulo-iv.md)
 
 ## Lei de Inovação
 
