@@ -3396,7 +3396,7 @@ RCCN, art. 45; RISF, arts. 293, II e 294, III.
 
 Nota: Terminologia própria do Senado Federal
 
-## Voto em Separado (VTS)
+## Voto em Separado
 
 Espécie de manifestação alternativa à do relator em uma comissão, podendo ser apresentado por qualquer dos demais membros.
 
@@ -3405,3 +3405,12 @@ RICD, art. 57, X; RISF, art. 132, § 6º, I.
 ## VTS
 
 Ver Voto em Separado
+
+## Sistema Nacional do Meio Ambiente 
+## Sisnama
+## Sistema Nacional de Vigilância Sanitária
+## SNVS
+## Sistema Unificado de Atenção à Sanidade Agropecuária
+## Suasa
+## Sistema Nacional de Metrologia, Normalização e Qualidade Industrial
+## Sinmetro
