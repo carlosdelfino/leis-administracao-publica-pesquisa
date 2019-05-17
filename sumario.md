@@ -31,6 +31,10 @@
 * [Capitulo IV](/lei-de-licitacoes-e-contratos/capitulo-iv.md)
 * [Capitulo V e VI](/lei-de-licitacoes-e-contratos/capitulo-v-e-vi.md)
 
+## Política Nacional de Resíduos Sólidos - PNRS
+
+* [Apresentação](/politica-nacional-de-residuos-solidos/README.md)
+
 ## Lei de Inovação
 
 * [Apresentação](/lei-de-inovacao/README.md)
