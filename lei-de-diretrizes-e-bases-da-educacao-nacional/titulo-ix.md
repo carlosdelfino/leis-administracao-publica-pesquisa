@@ -1,20 +1,18 @@
-TÍTULO IX
+TÍTULO IX - Das Disposições Transitórias
 
-Das Disposições Transitórias
-
- Art. 87. É instituída a Década da Educação, a iniciar-se um ano a partir da publicação desta Lei.
+Art. 87. É instituída a Década da Educação, a iniciar-se um ano a partir da publicação desta Lei.
 
 § 1º A União, no prazo de um ano a partir da publicação desta Lei, encaminhará, ao Congresso Nacional, o Plano Nacional de Educação, com diretrizes e metas para os dez anos seguintes, em sintonia com a Declaração Mundial sobre Educação para Todos.
 
-§ 2º O Poder Público deverá recensear os educandos no ensino fundamental, com especial atenção para os grupos de sete a quatorze e de quinze a dezesseis anos de idade.
+~~§ 2º O Poder Público deverá recensear os educandos no ensino fundamental, com especial atenção para os grupos de sete a quatorze e de quinze a dezesseis anos de idade.~~
 
-§ 2oO poder público deverá recensear os educandos no ensino fundamental, com especial atenção para o grupo de 6 \(seis\) a 14 \(quatorze\) anos de idade e de 15 \(quinze\) a 16 \(dezesseis\) anos de idade.         [\(Redação dada pela Lei nº 11.274, de 2006\)](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11274.htm#art4)
+~~§ 2oO poder público deverá recensear os educandos no ensino fundamental, com especial atenção para o grupo de 6 \(seis\) a 14 \(quatorze\) anos de idade e de 15 \(quinze\) a 16 \(dezesseis\) anos de idade.         [\(Redação dada pela Lei nº 11.274, de 2006\)](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11274.htm#art4)~~
 
 § 2º  \([Revogado](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art2)\).             [\(Redação dada pela lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
 § 3º Cada Município e, supletivamente, o Estado e a União, deverá:
 
-I - matricular todos os educandos a partir dos sete anos de idade e, facultativamente, a partir dos seis anos, no ensino fundamental;
+~~I - matricular todos os educandos a partir dos sete anos de idade e, facultativamente, a partir dos seis anos, no ensino fundamental;~~
 
 I – matricular todos os educandos a partir dos seis anos de idade, no ensino fundamental, atendidas as seguintes condições no âmbito de cada sistema de ensino:          [\(Redação dada pela Lei nº 11.114, de 2005\)](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11114.htm#art1)
 
@@ -26,7 +24,7 @@ c\) não redução média de recursos por aluno do ensino fundamental na respect
 
 § 3o  O Distrito Federal, cada Estado e Município, e, supletivamente, a União, devem:           [\(Redação dada pela Lei nº 11.330, de 2006\)](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11330.htm#art1)
 
-I – matricular todos os educandos a partir dos 6 \(seis\) anos de idade no ensino fundamental;             [\(Redação dada pela Lei nº 11.274, de 2006\)](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11274.htm#art4)
+~~I – matricular todos os educandos a partir dos 6 \(seis\) anos de idade no ensino fundamental;             [\(Redação dada pela Lei nº 11.274, de 2006\)](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11274.htm#art4)~~
 
 I -[\(revogado\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art2);                [\(Redação dada pela lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
@@ -42,7 +40,7 @@ III - realizar programas de capacitação para todos os professores em exercíci
 
 IV - integrar todos os estabelecimentos de ensino fundamental do seu território ao sistema nacional de avaliação do rendimento escolar.
 
-§ 4º Até o fim da Década da Educação somente serão admitidos professores habilitados em nível superior ou formados por treinamento em serviço.[\(Revogado pela lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art2)
+~~§ 4º Até o fim da Década da Educação somente serão admitidos professores habilitados em nível superior ou formados por treinamento em serviço.[\(Revogado pela lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art2)~~
 
 § 4º  [\(Revogado\).](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art2)[\(Redação dada pela lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
@@ -70,4 +68,3 @@ Brasília, 20 de dezembro de 1996; 175º da Independência e 108º da Repúbl
 
 FERNANDO HENRIQUE CARDOSO  
 _Paulo Renato Souza_
-

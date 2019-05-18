@@ -1,6 +1,4 @@
-TÍTULO IV
-
-Da Organização da Educação Nacional
+## TÍTULO IV - Da Organização da Educação Nacional
 
 Art. 8º A União, os Estados, o Distrito Federal e os Municípios organizarão, em regime de colaboração, os respectivos sistemas de ensino.
 
@@ -22,11 +20,11 @@ IV-A[-](https://www.planalto.gov.br/ccivil_03/Leis/L9394.htm#art9iva)estabelecer
 
 V - coletar, analisar e disseminar informações sobre a educação;
 
- VI - assegurar processo nacional de avaliação do rendimento escolar no ensino fundamental, médio e superior, em colaboração com os sistemas de ensino, objetivando a definição de prioridades e a melhoria da qualidade do ensino;
+VI - assegurar processo nacional de avaliação do rendimento escolar no ensino fundamental, médio e superior, em colaboração com os sistemas de ensino, objetivando a definição de prioridades e a melhoria da qualidade do ensino;
 
 VII - baixar normas gerais sobre cursos de graduação e pós-graduação;
 
- VIII - assegurar processo nacional de avaliação das instituições de educação superior, com a cooperação dos sistemas que tiverem responsabilidade sobre este nível de ensino;
+VIII - assegurar processo nacional de avaliação das instituições de educação superior, com a cooperação dos sistemas que tiverem responsabilidade sobre este nível de ensino;
 
 IX - autorizar, reconhecer, credenciar, supervisionar e avaliar, respectivamente, os cursos das instituições de educação superior e os estabelecimentos do seu sistema de ensino.              [\(Vide Lei nº 10.870, de 2004\)](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L10.870.htm#art1)
 
@@ -48,7 +46,7 @@ IV - autorizar, reconhecer, credenciar, supervisionar e avaliar, respectivamente
 
 V - baixar normas complementares para o seu sistema de ensino;
 
-VI - assegurar o ensino fundamental e oferecer, com prioridade, o ensino médio.
+~~VI - assegurar o ensino fundamental e oferecer, com prioridade, o ensino médio.~~
 
 VI - assegurar o ensino fundamental e oferecer, com prioridade, o ensino médio a todos que o demandarem, respeitado o disposto no art. 38 desta Lei;           [\(Redação dada pela Lei nº 12.061, de 2009\)](https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12061.htm#art2)
 
@@ -86,11 +84,11 @@ V - prover meios para a recuperação dos alunos de menor rendimento;
 
 VI - articular-se com as famílias e a comunidade, criando processos de integração da sociedade com a escola;
 
-VII - informar os pais e responsáveis sobre a freqüência e o rendimento dos alunos, bem como sobre a execução de sua proposta pedagógica.
+~~VII - informar os pais e responsáveis sobre a freqüência e o rendimento dos alunos, bem como sobre a execução de sua proposta pedagógica.~~
 
 VII - informar pai e mãe, conviventes ou não com seus filhos, e, se for o caso, os responsáveis legais, sobre a frequência e rendimento dos alunos, bem como sobre a execução da proposta pedagógica da escola;            [\(Redação dada pela Lei nº 12.013, de 2009\)](https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12013.htm#art1)
 
-VIII – notificar ao Conselho Tutelar do Município, ao juiz competente da Comarca e ao respectivo representante do Ministério Público a relação dos alunos que apresentem quantidade de faltas acima de cinqüenta por cento do percentual permitido em lei.            [\(Incluído pela Lei nº 10.287, de 2001\)](https://www.planalto.gov.br/ccivil_03/Leis/LEIS_2001/L10287.htm)
+~~VIII – notificar ao Conselho Tutelar do Município, ao juiz competente da Comarca e ao respectivo representante do Ministério Público a relação dos alunos que apresentem quantidade de faltas acima de cinqüenta por cento do percentual permitido em lei.            [\(Incluído pela Lei nº 10.287, de 2001\)](https://www.planalto.gov.br/ccivil_03/Leis/LEIS_2001/L10287.htm)~~
 
 VIII – notificar ao Conselho Tutelar do Município a relação dos alunos que apresentem quantidade de faltas acima de 30% \(trinta por cento\) do percentual permitido em lei;[\(Redação dada pela Lei nº 13.803, de 2019\)](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13803.htm#art1)
 
@@ -158,13 +156,12 @@ Art. 20. As instituições privadas de ensino se enquadrarão nas seguintes cate
 
 I - particulares em sentido estrito, assim entendidas as que são instituídas e mantidas por uma ou mais pessoas físicas ou jurídicas de direito privado que não apresentem as características dos incisos abaixo;
 
-II - comunitárias, assim entendidas as que são instituídas por grupos de pessoas físicas ou por uma ou mais pessoas jurídicas, inclusive cooperativas de professores e alunos que incluam na sua entidade mantenedora representantes da comunidade;
+~~II - comunitárias, assim entendidas as que são instituídas por grupos de pessoas físicas ou por uma ou mais pessoas jurídicas, inclusive cooperativas de professores e alunos que incluam na sua entidade mantenedora representantes da comunidade;~~
 
-II – comunitárias, assim entendidas as que são instituídas por grupos de pessoas físicas ou por uma ou mais pessoas jurídicas, inclusive cooperativas de pais, professores e alunos, que incluam em sua entidade mantenedora representantes da comunidade;               [\(Redação dada pela Lei nº 11.183, de 2005\)](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11183.htm#art1)
+~~II – comunitárias, assim entendidas as que são instituídas por grupos de pessoas físicas ou por uma ou mais pessoas jurídicas, inclusive cooperativas de pais, professores e alunos, que incluam em sua entidade mantenedora representantes da comunidade;               [\(Redação dada pela Lei nº 11.183, de 2005\)](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11183.htm#art1)~~
 
 II - comunitárias, assim entendidas as que são instituídas por grupos de pessoas físicas ou por uma ou mais pessoas jurídicas, inclusive cooperativas educacionais, sem fins lucrativos, que incluam na sua entidade mantenedora representantes da comunidade;             [\(Redação dada pela Lei nº 12.020, de 2009\)](https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12020.htm#art1)
 
 III - confessionais, assim entendidas as que são instituídas por grupos de pessoas físicas ou por uma ou mais pessoas jurídicas que atendem a orientação confessional e ideologia específicas e ao disposto no inciso anterior;
 
 IV - filantrópicas, na forma da lei.
-
