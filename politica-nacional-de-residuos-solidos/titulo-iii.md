@@ -1,10 +1,6 @@
-TÍTULO III
+## TÍTULO III - DAS DIRETRIZES APLICÁVEIS AOS RESÍDUOS SÓLIDOS 
 
-DAS DIRETRIZES APLICÁVEIS AOS RESÍDUOS SÓLIDOS 
-
-CAPÍTULO I
-
-DISPOSIÇÕES PRELIMINARES 
+### CAPÍTULO I - DISPOSIÇÕES PRELIMINARES 
 
 Art. 9o  Na gestão e gerenciamento de resíduos sólidos, deve ser observada a seguinte ordem de prioridade: não geração, redução, reutilização, reciclagem, tratamento dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos. 
 
@@ -60,13 +56,9 @@ b\) resíduos não perigosos: aqueles não enquadrados na alínea “a”. 
 
 Parágrafo único.  Respeitado o disposto no art. 20, os resíduos referidos na alínea “d” do inciso I do**caput**, se caracterizados como não perigosos, podem, em razão de sua natureza, composição ou volume, ser equiparados aos resíduos domiciliares pelo poder público municipal. 
 
-CAPÍTULO II
+### CAPÍTULO II - DOS PLANOS DE RESÍDUOS SÓLIDOS 
 
-DOS PLANOS DE RESÍDUOS SÓLIDOS 
-
-Seção I
-
-Disposições Gerais 
+#### Seção I - Disposições Gerais 
 
 Art. 14.  São planos de resíduos sólidos: 
 
@@ -84,9 +76,7 @@ VI - os planos de gerenciamento de resíduos sólidos. 
 
 Parágrafo único.  É assegurada ampla publicidade ao conteúdo dos planos de resíduos sólidos, bem como controle social em sua formulação, implementação e operacionalização, observado o disposto na[Lei no10.650, de 16 de abril de 2003](https://www.planalto.gov.br/ccivil_03/LEIS/2003/L10.650.htm), e no[art. 47 da Lei nº 11.445, de 2007. ](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/Lei/L11445.htm#art47)
 
-Seção II
-
-Do Plano Nacional de Resíduos Sólidos 
+#### Seção II - Do Plano Nacional de Resíduos Sólidos 
 
 Art. 15.  A União elaborará, sob a coordenação do Ministério do Meio Ambiente, o Plano Nacional de Resíduos Sólidos, com vigência por prazo indeterminado e horizonte de 20 \(vinte\) anos, a ser atualizado a cada 4 \(quatro\) anos, tendo como conteúdo mínimo: 
 
@@ -114,9 +104,7 @@ XI - meios a serem utilizados para o controle e a fiscalização, no âmbito nac
 
 Parágrafo único.  O Plano Nacional de Resíduos Sólidos será elaborado mediante processo de mobilização e participação social, incluindo a realização de audiências e consultas públicas. 
 
-Seção III
-
-Dos Planos Estaduais de Resíduos Sólidos 
+#### Seção III - Dos Planos Estaduais de Resíduos Sólidos 
 
 Art. 16.  A elaboração de plano estadual de resíduos sólidos, nos termos previstos por esta Lei, é condição para os Estados terem acesso a recursos da União, ou por ela controlados, destinados a empreendimentos e serviços relacionados à gestão de resíduos sólidos, ou para serem beneficiados por incentivos ou financiamentos de entidades federais de crédito ou fomento para tal finalidade. [\(Vigência\)](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#art55)
 
@@ -162,9 +150,7 @@ XII - meios a serem utilizados para o controle e a fiscalização, no âmbito es
 
 § 3o  Respeitada a responsabilidade dos geradores nos termos desta Lei, o plano microrregional de resíduos sólidos deve atender ao previsto para o plano estadual e estabelecer soluções integradas para a coleta seletiva, a recuperação e a reciclagem, o tratamento e a destinação final dos resíduos sólidos urbanos e, consideradas as peculiaridades microrregionais, outros tipos de resíduos. 
 
-Seção IV
-
-Dos Planos Municipais de Gestão Integrada de Resíduos Sólidos 
+#### Seção IV - Dos Planos Municipais de Gestão Integrada de Resíduos Sólidos 
 
 Art. 18.  A elaboração de plano municipal de gestão integrada de resíduos sólidos, nos termos previstos por esta Lei, é condição para o Distrito Federal e os Municípios terem acesso a recursos da União, ou por ela controlados, destinados a empreendimentos e serviços relacionados à limpeza urbana e ao manejo de resíduos sólidos, ou para serem beneficiados por incentivos ou financiamentos de entidades federais de crédito ou fomento para tal finalidade. [\(Vigência\)](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm#art55)
 
@@ -240,9 +226,7 @@ III - cujo território abranja, total ou parcialmente, Unidades de Conservação
 
 § 9o  Nos termos do regulamento, o Município que optar por soluções consorciadas intermunicipais para a gestão dos resíduos sólidos, assegurado que o plano intermunicipal preencha os requisitos estabelecidos nos incisos I a XIX do**caput**deste artigo, pode ser dispensado da elaboração de plano municipal de gestão integrada de resíduos sólidos. 
 
-Seção V
-
-Do Plano de Gerenciamento de Resíduos Sólidos 
+#### Seção V - Do Plano de Gerenciamento de Resíduos Sólidos 
 
 Art. 20.  Estão sujeitos à elaboração de plano de gerenciamento de resíduos sólidos: 
 
@@ -310,13 +294,9 @@ Art. 24.  O plano de gerenciamento de resíduos sólidos é parte integrante do
 
 § 2o  No processo de licenciamento ambiental referido no § 1oa cargo de órgão federal ou estadual do Sisnama, será assegurada oitiva do órgão municipal competente, em especial quanto à disposição final ambientalmente adequada de rejeitos. 
 
-CAPÍTULO III
+### CAPÍTULO III - DAS RESPONSABILIDADES DOS GERADORES E DO PODER PÚBLICO 
 
-DAS RESPONSABILIDADES DOS GERADORES E DO PODER PÚBLICO 
-
-Seção I
-
-Disposições Gerais 
+#### Seção I - Disposições Gerais 
 
 Art. 25.  O poder público, o setor empresarial e a coletividade são responsáveis pela efetividade das ações voltadas para assegurar a observância da Política Nacional de Resíduos Sólidos e das diretrizes e demais determinações estabelecidas nesta Lei e em seu regulamento. 
 
@@ -334,9 +314,7 @@ Art. 29.  Cabe ao poder público atuar, subsidiariamente, com vistas a minimiza
 
 Parágrafo único.  Os responsáveis pelo dano ressarcirão integralmente o poder público pelos gastos decorrentes das ações empreendidas na forma do**caput**. 
 
-Seção II
-
-Da Responsabilidade Compartilhada 
+#### Seção II - Da Responsabilidade Compartilhada 
 
 Art. 30.  É instituída a responsabilidade compartilhada pelo ciclo de vida dos produtos, a ser implementada de forma individualizada e encadeada, abrangendo os fabricantes, importadores, distribuidores e comerciantes, os consumidores e os titulares dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos, consoante as atribuições e procedimentos previstos nesta Seção. 
 
@@ -380,7 +358,7 @@ II - projetadas de forma a serem reutilizadas de maneira tecnicamente viável e 
 
 III - recicladas, se a reutilização não for possível. 
 
-§ 2o  O regulamento disporá sobre os casos em que, por razões de ordem técnica ou econômica, não seja viável a aplicação do disposto no**caput**. 
+§ 2o  O regulamento disporá sobre os casos em que, por razões de ordem técnica ou econômica, não seja viável a aplicação do disposto no **caput**. 
 
 § 3o  É responsável pelo atendimento do disposto neste artigo todo aquele que: 
 
@@ -456,9 +434,7 @@ VI - dar disposição final ambientalmente adequada aos resíduos e rejeitos ori
 
 § 2o  A contratação prevista no § 1oé dispensável de licitação, nos termos do[inciso XXVII do art. 24 da Lei no8.666, de 21 de junho de 1993.](https://www.planalto.gov.br/ccivil_03/LEIS/L8666cons.htm#art24xxvii)
 
-CAPÍTULO IV
-
-DOS RESÍDUOS PERIGOSOS 
+### CAPÍTULO IV - DOS RESÍDUOS PERIGOSOS 
 
 Art. 37.  A instalação e o funcionamento de empreendimento ou atividade que gere ou opere com resíduos perigosos somente podem ser autorizados ou licenciados pelas autoridades competentes se o responsável comprovar, no mínimo, capacidade técnica e econômica, além de condições para prover os cuidados necessários ao gerenciamento desses resíduos. 
 
@@ -490,15 +466,13 @@ IV - informar imediatamente aos órgãos competentes sobre a ocorrência de acid
 
 Art. 40.  No licenciamento ambiental de empreendimentos ou atividades que operem com resíduos perigosos, o órgão licenciador do Sisnama pode exigir a contratação de seguro de responsabilidade civil por danos causados ao meio ambiente ou à saúde pública, observadas as regras sobre cobertura e os limites máximos de contratação fixados em regulamento. 
 
-Parágrafo único.  O disposto no**caput**considerará o porte da empresa, conforme regulamento. 
+Parágrafo único.  O disposto no **caput** considerará o porte da empresa, conforme regulamento. 
 
 Art. 41.  Sem prejuízo das iniciativas de outras esferas governamentais, o Governo Federal deve estruturar e manter instrumentos e atividades voltados para promover a descontaminação de áreas órfãs. 
 
 Parágrafo único.  Se, após descontaminação de sítio órfão realizada com recursos do Governo Federal ou de outro ente da Federação, forem identificados os responsáveis pela contaminação, estes ressarcirão integralmente o valor empregado ao poder público. 
 
-CAPÍTULO V
-
-DOS INSTRUMENTOS ECONÔMICOS 
+### CAPÍTULO V - DOS INSTRUMENTOS ECONÔMICOS 
 
 Art. 42.  O poder público poderá instituir medidas indutoras e linhas de financiamento para atender, prioritariamente, às iniciativas de: 
 
@@ -508,7 +482,7 @@ II - desenvolvimento de produtos com menores impactos à saúde humana e à qual
 
 III - implantação de infraestrutura física e aquisição de equipamentos para cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis formadas por pessoas físicas de baixa renda; 
 
-IV - desenvolvimento de projetos de gestão dos resíduos sólidos de caráter intermunicipal ou, nos termos do inciso I do**caput**do art. 11, regional; 
+IV - desenvolvimento de projetos de gestão dos resíduos sólidos de caráter intermunicipal ou, nos termos do inciso I do **caput** do art. 11, regional; 
 
 V - estruturação de sistemas de coleta seletiva e de logística reversa; 
 
@@ -532,9 +506,7 @@ Art. 45.  Os consórcios públicos constituídos, nos termos da[Lei no11.107, d
 
 Art. 46.  O atendimento ao disposto neste Capítulo será efetivado em consonância com a[Lei Complementar nº 101, de 2000](https://www.planalto.gov.br/ccivil_03/LEIS/LCP/Lcp101.htm)\(Lei de Responsabilidade Fiscal\), bem como com as diretrizes e objetivos do respectivo plano plurianual, as metas e as prioridades fixadas pelas leis de diretrizes orçamentárias e no limite das disponibilidades propiciadas pelas leis orçamentárias anuais. 
 
-CAPÍTULO VI
-
-DAS PROIBIÇÕES 
+### CAPÍTULO VI - DAS PROIBIÇÕES 
 
 Art. 47.  São proibidas as seguintes formas de destinação ou disposição final de resíduos sólidos ou rejeitos: 
 
@@ -563,4 +535,3 @@ IV - fixação de habitações temporárias ou permanentes; 
 V - outras atividades vedadas pelo poder público. 
 
 Art. 49.  É proibida a importação de resíduos sólidos perigosos e rejeitos, bem como de resíduos sólidos cujas características causem dano ao meio ambiente, à saúde pública e animal e à sanidade vegetal, ainda que para tratamento, reforma, reúso, reutilização ou recuperação. 
-

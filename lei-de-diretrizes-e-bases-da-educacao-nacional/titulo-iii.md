@@ -1,10 +1,10 @@
-TÍTULO III
+## TÍTULO III
 
 Do Direito à Educação e do Dever de Educar
 
 Art. 4º O dever do Estado com educação escolar pública será efetivado mediante a garantia de:
 
-I - ensino fundamental, obrigatório e gratuito, inclusive para os que a ele não tiveram acesso na idade própria;
+~~I - ensino fundamental, obrigatório e gratuito, inclusive para os que a ele não tiveram acesso na idade própria;~~
 
 I - educação básica obrigatória e gratuita dos 4 \(quatro\) aos 17 \(dezessete\) anos de idade, organizada da seguinte forma:           [\(Redação dada pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
@@ -14,17 +14,17 @@ b\) ensino fundamental;            [\(Incluído pela Lei nº 12.796, 
 
 c\) ensino médio;          [\(Incluído pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
-II - progressiva extensão da obrigatoriedade e gratuidade ao ensino médio;
+~~II - progressiva extensão da obrigatoriedade e gratuidade ao ensino médio;~~
 
-II - universalização do ensino médio gratuito;             [\(Redação dada pela Lei nº 12.061, de 2009\)](https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12061.htm#art1)
+~~II - universalização do ensino médio gratuito;             [\(Redação dada pela Lei nº 12.061, de 2009\)](https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12061.htm#art1)~~
 
 II - educação infantil gratuita às crianças de até 5 \(cinco\) anos de idade;          [\(Redação dada pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
-III - atendimento educacional especializado gratuito aos educandos com necessidades especiais, preferencialmente na rede regular de ensino;
+~~III - atendimento educacional especializado gratuito aos educandos com necessidades especiais, preferencialmente na rede regular de ensino;~~
 
 III - atendimento educacional especializado gratuito aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, transversal a todos os níveis, etapas e modalidades, preferencialmente na rede regular de ensino;             [\(Redação dada pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
-IV - atendimento gratuito em creches e pré-escolas às crianças de zero a seis anos de idade;
+~~IV - atendimento gratuito em creches e pré-escolas às crianças de zero a seis anos de idade;~~
 
 IV - acesso público e gratuito aos ensinos fundamental e médio para todos os que não os concluíram na idade própria;            [\(Redação dada pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
@@ -34,7 +34,7 @@ VI - oferta de ensino noturno regular, adequado às condições do educando;
 
 VII - oferta de educação escolar regular para jovens e adultos, com características e modalidades adequadas às suas necessidades e disponibilidades, garantindo-se aos que forem trabalhadores as condições de acesso e permanência na escola;
 
-VIII - atendimento ao educando, no ensino fundamental público, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde; 
+~~VIII - atendimento ao educando, no ensino fundamental público, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde;~~
 
 VIII - atendimento ao educando, em todas as etapas da educação básica, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde;[\(Redação dada pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
@@ -44,15 +44,15 @@ X – vaga na escola pública de educação infantil ou de ensino fundamental ma
 
 Art. 4º-A. É assegurado atendimento educacional, durante o período de internação, ao aluno da  educação básica internado para tratamento de saúde em regime hospitalar ou domiciliar por tempo prolongado, conforme dispuser o Poder Público em regulamento, na esfera de sua competência federativa.[\(Incluído pela Lei nº 13.716, de 2018\).](https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13716.htm#art1)
 
-Art. 5º O acesso ao ensino fundamental é direito público subjetivo, podendo qualquer cidadão, grupo de cidadãos, associação comunitária, organização sindical, entidade de classe ou outra legalmente constituída, e, ainda, o Ministério Público, acionar o Poder Público para exigi-lo.
+~~Art. 5º O acesso ao ensino fundamental é direito público subjetivo, podendo qualquer cidadão, grupo de cidadãos, associação comunitária, organização sindical, entidade de classe ou outra legalmente constituída, e, ainda, o Ministério Público, acionar o Poder Público para exigi-lo.~~
 
 Art. 5o O acesso à educação básica obrigatória é direito público subjetivo, podendo qualquer cidadão, grupo de cidadãos, associação comunitária, organização sindical, entidade de classe ou outra legalmente constituída e, ainda, o Ministério Público, acionar o poder público para exigi-lo.             [\(Redação dada pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
-§ 1º Compete aos Estados e aos Municípios, em regime de colaboração, e com a assistência da União:
+~~§ 1º Compete aos Estados e aos Municípios, em regime de colaboração, e com a assistência da União:~~
 
 § 1o O poder público, na esfera de sua competência federativa, deverá:            [\(Redação dada pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
-I - recensear a população em idade escolar para o ensino fundamental, e os jovens e adultos que a ele não tiveram acesso;
+~~I - recensear a população em idade escolar para o ensino fundamental, e os jovens e adultos que a ele não tiveram acesso;~~
 
 I - recensear anualmente as crianças e adolescentes em idade escolar, bem como os jovens e adultos que não concluíram a educação básica;            [\(Redação dada pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
@@ -68,11 +68,11 @@ III - zelar, junto aos pais ou responsáveis, pela freqüência à escola.
 
 § 5º Para garantir o cumprimento da obrigatoriedade de ensino, o Poder Público criará formas alternativas de acesso aos diferentes níveis de ensino, independentemente da escolarização anterior.
 
-Art. 6º É dever dos pais ou responsáveis efetuar a matrícula dos menores, a partir dos sete anos de idade, no ensino fundamental.
+~~Art. 6º É dever dos pais ou responsáveis efetuar a matrícula dos menores, a partir dos sete anos de idade, no ensino fundamental.~~
 
-Art. 6oÉ dever dos pais ou responsáveis efetuar a matrícula dos menores, a partir dos seis anos de idade, no ensino fundamental.               [\(Redação dada pela Lei nº 11.114, de 2005\)](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11114.htm#art1)
+~~Art. 6° É dever dos pais ou responsáveis efetuar a matrícula dos menores, a partir dos seis anos de idade, no ensino fundamental.               [\(Redação dada pela Lei nº 11.114, de 2005\)](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11114.htm#art1)~~
 
-Art. 6o É dever dos pais ou responsáveis efetuar a matrícula das crianças na educação básica a partir dos 4 \(quatro\) anos de idade.            [\(Redação dada pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
+Art. 6° É dever dos pais ou responsáveis efetuar a matrícula das crianças na educação básica a partir dos 4 \(quatro\) anos de idade.            [\(Redação dada pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
 Art. 7º O ensino é livre à iniciativa privada, atendidas as seguintes condições:
 
@@ -95,4 +95,3 @@ II - trabalho escrito ou outra modalidade de atividade de pesquisa, com tema, ob
 § 3º  As instituições de ensino implementarão progressivamente, no prazo de 2 \(dois\) anos, as providências e adaptações necessárias à adequação de seu funcionamento às medidas previstas neste artigo.               [\(Incluído pela Lei nº 13.796, de 2019\)](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13796.htm#art1)[\(Vigência\)](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13796.htm#art2)[\(Vide parágrafo único do art. 2\)](https://www.planalto.gov.br/ccivil_03/Leis/L9394.htm#art2p)
 
 § 4º  O disposto neste artigo não se aplica ao ensino militar a que se refere o art. 83 desta Lei.                  [\(Incluído pela Lei nº 13.796, de 2019\)](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13796.htm#art1)[\(Vigência\)](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13796.htm#art2)
-

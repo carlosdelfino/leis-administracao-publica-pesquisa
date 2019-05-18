@@ -1,18 +1,12 @@
-TÍTULO II
+## TÍTULO II - DA POLÍTICA NACIONAL DE RESÍDUOS SÓLIDOS 
 
-DA POLÍTICA NACIONAL DE RESÍDUOS SÓLIDOS 
-
-CAPÍTULO I
-
-DISPOSIÇÕES GERAIS 
+### CAPÍTULO I - DISPOSIÇÕES GERAIS 
 
 Art. 4o  A Política Nacional de Resíduos Sólidos reúne o conjunto de princípios, objetivos, instrumentos, diretrizes, metas e ações adotados pelo Governo Federal, isoladamente ou em regime de cooperação com Estados, Distrito Federal, Municípios ou particulares, com vistas à gestão integrada e ao gerenciamento ambientalmente adequado dos resíduos sólidos. 
 
 Art. 5o  A Política Nacional de Resíduos Sólidos integra a Política Nacional do Meio Ambiente e articula-se com a Política Nacional de Educação Ambiental, regulada pela[Lei no9.795, de 27 de abril de 1999](https://www.planalto.gov.br/ccivil_03/LEIS/L9795.htm), com a Política Federal de Saneamento Básico, regulada pela[Lei nº 11.445, de 2007,](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/Lei/L11445.htm)e com a[Lei no11.107, de 6 de abril de 2005. ](https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11107.htm)
 
-CAPÍTULO II
-
-DOS PRINCÍPIOS E OBJETIVOS 
+### CAPÍTULO II - DOS PRINCÍPIOS E OBJETIVOS 
 
 Art. 6o  São princípios da Política Nacional de Resíduos Sólidos: 
 
@@ -74,9 +68,7 @@ XIV - incentivo ao desenvolvimento de sistemas de gestão ambiental e empresaria
 
 XV - estímulo à rotulagem ambiental e ao consumo sustentável. 
 
-CAPÍTULO III
-
-DOS INSTRUMENTOS 
+### CAPÍTULO III - DOS INSTRUMENTOS 
 
 Art. 8o  São instrumentos da Política Nacional de Resíduos Sólidos, entre outros: 
 

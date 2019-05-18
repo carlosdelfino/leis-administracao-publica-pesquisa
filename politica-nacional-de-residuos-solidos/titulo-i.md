@@ -1,22 +1,15 @@
-| **Presidência da República Casa Civil Subchefia para Assuntos Jurídicos** |
-| :--- |
-
+**Presidência da República Casa Civil Subchefia para Assuntos Jurídicos** 
 
 [**LEI Nº 12.305, DE 2 DE AGOSTO DE 2010.**](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%2012.305-2010?OpenDocument)
 
 | [Regulamento](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/Decreto/D7404.htm) | Institui a Política Nacional de Resíduos Sólidos; altera a Lei no9.605, de 12 de fevereiro de 1998; e dá outras providências.  |
 | :--- | :--- |
 
+**O PRESIDENTE DA REPÚBLICA** Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei: 
 
-**O PRESIDENTE DA REPÚBLICA**Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei: 
+## TÍTULO I - DISPOSIÇÕES GERAIS 
 
-TÍTULO I
-
-DISPOSIÇÕES GERAIS 
-
-CAPÍTULO I
-
-DO OBJETO E DO CAMPO DE APLICAÇÃO 
+### CAPÍTULO I - DO OBJETO E DO CAMPO DE APLICAÇÃO 
 
 Art. 1o  Esta Lei institui a Política Nacional de Resíduos Sólidos, dispondo sobre seus princípios, objetivos e instrumentos, bem como sobre as diretrizes relativas à gestão integrada e ao gerenciamento de resíduos sólidos, incluídos os perigosos, às responsabilidades dos geradores e do poder público e aos instrumentos econômicos aplicáveis. 
 
@@ -26,9 +19,7 @@ Art. 1o  Esta Lei institui a Política Nacional de Resíduos Sólidos, dispondo
 
 Art. 2o  Aplicam-se aos resíduos sólidos, além do disposto nesta[Lei, nas Leis nos11.445, de 5 de janeiro de 2007](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/Lei/L11445.htm),[9.974, de 6 de junho de 2000](https://www.planalto.gov.br/ccivil_03/LEIS/L9974.htm), e[9.966, de 28 de abril de 2000](https://www.planalto.gov.br/ccivil_03/LEIS/L9966.htm), as normas estabelecidas pelos órgãos do Sistema Nacional do Meio Ambiente \(Sisnama\), do Sistema Nacional de Vigilância Sanitária \(SNVS\), do Sistema Unificado de Atenção à Sanidade Agropecuária \(Suasa\) e do Sistema Nacional de Metrologia, Normalização e Qualidade Industrial \(Sinmetro\). 
 
-CAPÍTULO II
-
-DEFINIÇÕES 
+### CAPÍTULO II - DEFINIÇÕES 
 
 Art. 3o  Para os efeitos desta Lei, entende-se por: 
 

@@ -14,3 +14,15 @@ A Política Nacional de Resíduos Sólidos Brasileira, promove através de seus 
 
 No Capítulo III, art 8° inciso VI define a reciclagem como instrumento da política, através _da cooperação técnica e financeira entre os setores público e privado para o desenvolvimento de pesquisas de novos produtos, métodos, processos e tecnologias de gestão, reciclagem, reutilização, tratamento de resíduos e disposição final ambientalmente adequada de rejeitos;_e claro conforme o inciso VII _a pesquisa cientifica e tecnológica_. Não podemos esquecer que projetos de reciclagem dos resíduos sólidos podem ser usados no ensino médio como um processo para _educação ambiental_ conforme o inciso VIII.
 
+Atentar para os incicos X e XI do Art. 18°, paragrafo 1, na seção IV no Capítulo II.
+
+X - programas e ações de educação ambiental que promovam a não geração, a redução, a reutilização e a reciclagem de resíduos sólidos; 
+
+XI - programas e ações para a participação dos grupos interessados, em especial das cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis formadas por pessoas físicas de baixa renda, se houver; 
+
+XV - descrição das formas e dos limites da participação do poder público local na coleta seletiva e na logística reversa, respeitado o disposto no art. 33, e de outras ações relativas à responsabilidade compartilhada pelo ciclo de vida dos produtos; 
+
+No Art. 32 na seção II Capítulo III, sugere o desenvolvimento de parcerias para produção de embalagens reaproveitáveis.
+
+No Art. 33 trata da oportunidade de parceria para desenvolver um ciclo de retorno, em especial de baterias, lampadas eletrônicas e outros equipamentos eletrônicos, que podem ser fontes de componentes eletrônicos discretos para projetos de automação e rebótica.
+

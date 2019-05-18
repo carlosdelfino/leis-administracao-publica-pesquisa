@@ -1,5 +1,4 @@
-| ![](https://www.planalto.gov.br/ccivil_03/Brastra.gif "Brastra.gif \(4376 bytes\)") |
-| :--- |
+![](/assets/images/Brastra.gif "Brastra.gif \(4376 bytes\)") 
 
 
 [**LEI Nº 9.394, DE 20 DE DEZEMBRO DE 1996.**](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%209.394-1996?OpenDocument)
@@ -8,11 +7,9 @@
 | :--- | :--- |
 
 
-**O PRESIDENTE DA REPÚBLICA**Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+**O PRESIDENTE DA REPÚBLICA** Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I
-
-Da Educação
+## TÍTULO I - Da Educação
 
 Art. 1º A educação abrange os processos formativos que se desenvolvem na vida familiar, na convivência humana, no trabalho, nas instituições de ensino e pesquisa, nos movimentos sociais e organizações da sociedade civil e nas manifestações culturais.
 
@@ -20,9 +17,7 @@ Art. 1º A educação abrange os processos formativos que se desenvolvem na vida
 
 § 2º A educação escolar deverá vincular-se ao mundo do trabalho e à prática social.
 
-TÍTULO II
-
-Dos Princípios e Fins da Educação Nacional
+## TÍTULO II - Dos Princípios e Fins da Educação Nacional
 
 Art. 2º A educação, dever da família e do Estado, inspirada nos princípios de liberdade e nos ideais de solidariedade humana, tem por finalidade o pleno desenvolvimento do educando, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.
 
@@ -53,4 +48,3 @@ XI - vinculação entre a educação escolar, o trabalho e as práticas sociais.
 XII - consideração com a diversidade étnico-racial.            [\(Incluído pela Lei nº 12.796, de 2013\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12796.htm#art1)
 
 XIII - garantia do direito à educação e à aprendizagem ao longo da vida.[\(Incluído pela Lei nº 13.632, de 2018\)](https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13632.htm#art1)
-

@@ -1,6 +1,4 @@
-TÍTULO VIII
-
-Das Disposições Gerais
+## TÍTULO VIII - Das Disposições Gerais
 
 Art. 78. O Sistema de Ensino da União, com a colaboração das agências federais de fomento à cultura e de assistência aos índios, desenvolverá programas integrados de ensino e pesquisa, para oferta de educação escolar bilingüe e intercultural aos povos indígenas, com os seguintes objetivos:
 
@@ -22,7 +20,7 @@ III - desenvolver currículos e programas específicos, neles incluindo os conte
 
 IV - elaborar e publicar sistematicamente material didático específico e diferenciado.
 
-§ 3oNo que se refere à educação superior, sem prejuízo de outras ações, o atendimento aos povos indígenas efetivar-se-á, nas universidades públicas e privadas, mediante a oferta de ensino e de assistência estudantil, assim como de estímulo à pesquisa e desenvolvimento de programas especiais.          [\(Incluído pela Lei nº 12.416, de 2011\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12416.htm#art1)
+§ 3° No que se refere à educação superior, sem prejuízo de outras ações, o atendimento aos povos indígenas efetivar-se-á, nas universidades públicas e privadas, mediante a oferta de ensino e de assistência estudantil, assim como de estímulo à pesquisa e desenvolvimento de programas especiais.          [\(Incluído pela Lei nº 12.416, de 2011\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12416.htm#art1)
 
 Art. 79-A.[\(VETADO\)](https://www.planalto.gov.br/ccivil_03/Leis/Mensagem_Veto/2003/Mv03-03.htm)[\(Incluído pela Lei nº 10.639, de 9.1.2003\)](https://www.planalto.gov.br/ccivil_03/Leis/2003/L10.639.htm#art79a)
 
@@ -38,7 +36,7 @@ Art. 80. O Poder Público incentivará o desenvolvimento e a veiculação de pro
 
 § 4º A educação a distância gozará de tratamento diferenciado, que incluirá:
 
-I - custos de transmissão reduzidos em canais comerciais de radiodifusão sonora e de sons e imagens;
+~~I - custos de transmissão reduzidos em canais comerciais de radiodifusão sonora e de sons e imagens;~~
 
 I - custos de transmissão reduzidos em canais comerciais de radiodifusão sonora e de sons e imagens e em outros meios de comunicação que sejam explorados mediante autorização, concessão ou permissão do poder público;             [\(Redação dada pela Lei nº 12.603, de 2012\)](https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12603.htm#art1)
 
@@ -48,9 +46,9 @@ III - reserva de tempo mínimo, sem ônus para o Poder Público, pelos concessio
 
 Art. 81. É permitida a organização de cursos ou instituições de ensino experimentais, desde que obedecidas as disposições desta Lei.
 
-Art. 82. Os sistemas de ensino estabelecerão as normas para realização dos estágios dos alunos regularmente matriculados no ensino médio ou superior em sua jurisdição.
+~~Art. 82. Os sistemas de ensino estabelecerão as normas para realização dos estágios dos alunos regularmente matriculados no ensino médio ou superior em sua jurisdição.~~
 
-Parágrafo único. O estágio realizado nas condições deste artigo não estabelecem vínculo empregatício, podendo o estagiário receber bolsa de estágio, estar segurado contra acidentes e ter a cobertura previdenciária prevista na legislação específica.
+~~Parágrafo único. O estágio realizado nas condições deste artigo não estabelecem vínculo empregatício, podendo o estagiário receber bolsa de estágio, estar segurado contra acidentes e ter a cobertura previdenciária prevista na legislação específica.~~
 
 Art. 82.  Os sistemas de ensino estabelecerão as normas de realização de estágio em sua jurisdição, observada a lei federal sobre a matéria.             [\(Redação dada pela Lei nº 11.788, de 2008\)](https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11788.htm#art20)
 
@@ -63,4 +61,3 @@ Art. 84. Os discentes da educação superior poderão ser aproveitados em tarefa
 Art. 85. Qualquer cidadão habilitado com a titulação própria poderá exigir a abertura de concurso público de provas e títulos para cargo de docente de instituição pública de ensino que estiver sendo ocupado por professor não concursado, por mais de seis anos, ressalvados os direitos assegurados pelos[arts. 41 da Constituição Federal](https://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#art41)e[19 do Ato das Disposições Constitucionais Transitórias](https://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#adctart19).
 
 Art. 86. As instituições de educação superior constituídas como universidades integrar-se-ão, também, na sua condição de instituições de pesquisa, ao Sistema Nacional de Ciência e Tecnologia, nos termos da legislação específica.
-

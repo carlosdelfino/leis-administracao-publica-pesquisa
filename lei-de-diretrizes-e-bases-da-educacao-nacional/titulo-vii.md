@@ -1,6 +1,4 @@
-TÍTULO VII
-
-Dos Recursos financeiros
+## TÍTULO VII - Dos Recursos financeiros
 
 Art. 68. Serão recursos públicos destinados à educação os originários de:
 
@@ -99,4 +97,3 @@ IV - prestem contas ao Poder Público dos recursos recebidos.
 § 1º Os recursos de que trata este artigo poderão ser destinados a bolsas de estudo para a educação básica, na forma da lei, para os que demonstrarem insuficiência de recursos, quando houver falta de vagas e cursos regulares da rede pública de domicílio do educando, ficando o Poder Público obrigado a investir prioritariamente na expansão da sua rede local.
 
 § 2º As atividades universitárias de pesquisa e extensão poderão receber apoio financeiro do Poder Público, inclusive mediante bolsas de estudo.
-
