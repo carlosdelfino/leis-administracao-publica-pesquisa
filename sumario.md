@@ -13,24 +13,21 @@
 
 ### Federais
 
-* Lei de Improbidade Administrativa
-  * [Apresentação](/lei-de-improbidade-administrativa/README.md)
+* [Lei de Improbidade Administrativa](/lei-de-improbidade-administrativa/README.md)
   * [Capítulo I e II](/lei-de-improbidade-administrativa/capitulo-i-e-ii.md)
   * [Capítulo III ao VIII](/lei-de-improbidade-administrativa/capitulo-iii-ao-viii.md)
 
-## Lei de Licitação e Contratos da Aministração Pública
-
-* [Apresentação](/lei-de-licitacoes-e-contratos/README.md)
-* [Capitulo I](/lei-de-licitacoes-e-contratos/capitulo-i.md)
-* Capitulo II
-  * [Seção I](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-i.md)
-  * [Seção II](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-ii.md)
-  * [Seção III e IV](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-iii-e-iv.md)
-* Capitulo III
-  * [Seção I e II](/lei-de-licitacoes-e-contratos/capitulo-iii-secao-i-e-ii.md)
-  * [Seção III ate IV](/lei-de-licitacoes-e-contratos/capitulo-iii-secao-iii-ate-iv.md)
-* [Capitulo IV](/lei-de-licitacoes-e-contratos/capitulo-iv.md)
-* [Capitulo V e VI](/lei-de-licitacoes-e-contratos/capitulo-v-e-vi.md)
+* [Lei de Licitação e Contratos da Aministração Pública](/lei-de-licitacoes-e-contratos/README.md)
+  * [Capitulo I](/lei-de-licitacoes-e-contratos/capitulo-i.md)
+  * Capitulo II
+    * [Seção I](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-i.md)
+    * [Seção II](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-ii.md)
+    * [Seção III e IV](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-iii-e-iv.md)
+  * Capitulo III
+    * [Seção I e II](/lei-de-licitacoes-e-contratos/capitulo-iii-secao-i-e-ii.md)
+    * [Seção III ate IV](/lei-de-licitacoes-e-contratos/capitulo-iii-secao-iii-ate-iv.md)
+  * [Capitulo IV](/lei-de-licitacoes-e-contratos/capitulo-iv.md)
+  * [Capitulo V e VI](/lei-de-licitacoes-e-contratos/capitulo-v-e-vi.md)
 
 ## Política Nacional de Resíduos Sólidos - PNRS
 
