@@ -13,11 +13,10 @@
 
 ### Federais
 
-#### Lei de Improbidade Administrativa
-
-* [Apresentação](/lei-de-improbidade-administrativa/README.md)
-* [Capítulo I e II](/lei-de-improbidade-administrativa/capitulo-i-e-ii.md)
-* [Capítulo III ao VIII](/lei-de-improbidade-administrativa/capitulo-iii-ao-viii.md)
+* Lei de Improbidade Administrativa
+  * [Apresentação](/lei-de-improbidade-administrativa/README.md)
+  * [Capítulo I e II](/lei-de-improbidade-administrativa/capitulo-i-e-ii.md)
+  * [Capítulo III ao VIII](/lei-de-improbidade-administrativa/capitulo-iii-ao-viii.md)
 
 ## Lei de Licitação e Contratos da Aministração Pública
 
