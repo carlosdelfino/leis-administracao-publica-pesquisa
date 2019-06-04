@@ -11,6 +11,12 @@
 * [Apresentação](leis/README.md)
 * [Tipos de Leis](/leis/tipos-de-leis.md)
 
+### Municipais
+
+* Paraná
+  * Foz do Iguaçu
+    * [Lei de incentivo à inovação e à pesquisa científica e tecnológica](/leis/municipais/pr/foz-do-iguacu/lei-de-incentivo-a-inovacao-e-apesquisa-cientifica-e-tecnologica.md)
+
 ### Federais
 
 * [Lei de Improbidade Administrativa](/lei-de-improbidade-administrativa/README.md)
