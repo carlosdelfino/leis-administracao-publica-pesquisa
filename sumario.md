@@ -11,7 +11,9 @@
 * [Apresentação](leis/README.md)
 * [Tipos de Leis](/leis/tipos-de-leis.md)
 
-## Lei de Improbidade Administrativa
+### Federais
+
+#### Lei de Improbidade Administrativa
 
 * [Apresentação](/lei-de-improbidade-administrativa/README.md)
 * [Capítulo I e II](/lei-de-improbidade-administrativa/capitulo-i-e-ii.md)
