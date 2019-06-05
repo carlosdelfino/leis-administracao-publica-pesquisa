@@ -3,12 +3,12 @@
 ## Introdução
 
 * [Introdução](README.md)
-* [Pesquisas Acadêmicas](pesquisas-academicas/README.md)
-* [Pesquisas com Reciclagem](pesquisas-academicas/pesquisas-com-reciclagem.md)
+* [Pesquisas Acadêmicas](/pesquisas-academicas/README.md)
+* [Pesquisas com Reciclagem](/pesquisas-academicas/pesquisas-com-reciclagem.md)
 
 ## Leis
 
-* [Apresentação](leis/README.md)
+* [Apresentação](/leis/README.md)
 * [Tipos de Leis](/leis/tipos-de-leis.md)
 
 ### Municipais
