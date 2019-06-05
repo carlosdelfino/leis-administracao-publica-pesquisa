@@ -16,6 +16,8 @@
 * [Resolução CNE/CES nº 1, de 13 de janeiro de 2014](http://portal.mec.gov.br/index.php?option=com_docman&task=doc_download&gid=14957&Itemid=)
   - Institui as Diretrizes Curriculares Nacionais do curso de graduação em Administração Pública, bacharelado, e dá outras providências.
 
+* https://leismunicipais.com.br
+
 ## Backup de Referências
 
 Na pasta [PDFs](/pdfs/) pode se encontrar vários PDFs que estou lendo e usando como apoio para produção deste livro de notas, alguns inclusive já listado nas referências acima.
