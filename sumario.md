@@ -25,7 +25,7 @@
   * [Capítulo I e II](/lei-de-improbidade-administrativa/capitulo-i-e-ii.md)
   * [Capítulo III ao VIII](/lei-de-improbidade-administrativa/capitulo-iii-ao-viii.md)
 
-* [Lei de Licitação e Contratos da Aministração Pública](/lei-de-licitacoes-e-contratos/README.md)
+* [Lei de Licitação e Contratos da Administração Pública](/lei-de-licitacoes-e-contratos/README.md)
   * [Capitulo I](/lei-de-licitacoes-e-contratos/capitulo-i.md)
   * Capitulo II
     * [Seção I](/lei-de-licitacoes-e-contratos/capitulo-ii-secao-i.md)
@@ -37,13 +37,32 @@
   * [Capitulo IV](/lei-de-licitacoes-e-contratos/capitulo-iv.md)
   * [Capitulo V e VI](/lei-de-licitacoes-e-contratos/capitulo-v-e-vi.md)
 
+* [RDC - Regime Diferenciado de Contratações Públicas](rdc-regime-diferenciado-de-contratacoes-publicas\README.md)
+  * Capítulo I
+    * [Seção I](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-i-secao-i.md)
+    * [Seção II](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-i-secao-ii.md)
+    * [Seção III](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-i-secao-iii.md)
+    * [Seção IV](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-i-secao-iv.md)
+    * [Seção V](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-i-secao-v.md)
+    * [Seção VI](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-i-secao-vi.md)
+  * Capítulo II
+    * [Seção I](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-ii-secao-i.md)
+    * [Seção II](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-ii-secao-ii.md)
+    * [Seção III](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-ii-secao-iii.md)
+    * [Seção IV](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-ii-secao-iv.md)
+    * [Seção V](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-ii-secao-v.md)
+    * [Seção VI](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-ii-secao-vi.md)
+    * [Seção VII](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-ii-secao-vii.md)
+  * [Capítulo III](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-iii.md)
+  * [Capítulo IV](rdc-regime-diferenciado-de-contratacoes-publicas\capitulo-iv.md)
+
 * [Política Nacional de Resíduos Sólidos - PNRS]](/politica-nacional-de-residuos-solidos/README.md)
   * [Título I](politica-nacional-de-residuos-solidos/titulo-i.md)
   * [Título II](politica-nacional-de-residuos-solidos/titulo-ii.md)
   * [Título III](politica-nacional-de-residuos-solidos/titulo-iii.md)
   * [Título IV](politica-nacional-de-residuos-solidos/titulo-iv.md)
 
-* [Lei de Inovação]](/lei-de-inovacao/README.md)
+* [Lei de Inovação](/lei-de-inovacao/README.md)
   * [Capitulo I](/lei-de-inovacao/capitulo-i.md)
   * [Capitulo II](/lei-de-inovacao/capitulo-ii.md)
   * [Capitulo III](/lei-de-inovacao/capitulo-iii.md)
